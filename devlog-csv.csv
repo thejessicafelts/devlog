@@ -1,0 +1,1362 @@
+date,time,repository,activity,description
+2019-12-17,05:08:25,100-days-of-code,commit,Update to README.md file
+2019-12-17,05:07:15,100-days-of-code,commit,Placing old files into an Archive folder
+2019-12-17,05:06:54,100-days-of-code,commit,Update to README.md file
+2018-01-30,03:48:06,100-days-of-code,commit,Updated file: updated README.md file
+2018-01-30,03:47:32,100-days-of-code,commit,updated file: updated date error.
+2018-01-28,04:24:55,100-days-of-code,commit,updated file: corrected date error.
+2018-01-27,01:44:03,100-days-of-code,commit,"updated file: added logs for Days 017, 018, and 019."
+2018-01-24,18:05:28,100-days-of-code,commit,updated file: updated date on latest log.
+2018-01-24,17:27:29,100-days-of-code,commit,updated logs: added Day 016 to the Round 1 logs.
+2018-01-23,02:35:49,100-days-of-code,commit,updated file: added logs for Days 013 through 015.
+2018-01-19,16:31:53,100-days-of-code,commit,updated file: added logs for Day 011 and 012.
+2018-01-18,03:23:34,100-days-of-code,commit,updated file: added Day 010 log.
+2018-01-16,23:15:53,100-days-of-code,commit,updated file: added Day 009 to the round-one.md log.
+2018-01-16,02:29:56,100-days-of-code,commit,updated files: added Day 008 log.
+2018-01-15,03:43:12,100-days-of-code,commit,Merge branch 'master' of https://github.com/thejessicafelts/100-days-of-code
+2018-01-15,03:43:00,100-days-of-code,commit,updated file: added Day 006 and 007 to the round-one.md log.
+2018-01-14,04:29:28,100-days-of-code,commit,Updated file: removef project placeholders
+2018-01-13,04:03:10,100-days-of-code,commit,updated file: Updated Log for Day 005
+2018-01-11,16:38:09,100-days-of-code,commit,updated file: added new log for day 004.
+2018-01-10,15:42:15,100-days-of-code,commit,updated file: updated log file for Day 003.
+2018-01-09,15:06:34,100-days-of-code,commit,updated file: updated log file for social links to appear at top instead of bottom.
+2018-01-09,15:02:29,100-days-of-code,commit,updated file: updated round-one log file for day 002.
+2018-01-08,15:55:58,100-days-of-code,commit,updated file: updated round-one.md log file.
+2018-01-08,15:39:21,100-days-of-code,commit,updated files: updated round-one.md log for day 001.
+2018-01-08,15:19:11,100-days-of-code,commit,"updated files: updated README.md, deleted log.md, created logs folder with round-one.md file."
+2018-01-08,15:12:59,100-days-of-code,commit,"updated files: updated README.md file, and added log.md file."
+2018-01-07,03:45:19,100-days-of-code,commit,updated files: project setup in Eclipse for Java development.
+2018-01-07,02:59:28,100-days-of-code,commit,new project: added project folder for project 001.
+2018-01-06,03:40:35,100-days-of-code,commit,Updated file: updated README.md
+2018-01-05,04:09:24,100-days-of-code,commit,Updated file: updated README.md
+2018-01-04,03:04:34,100-days-of-code,commit,Updated file: updated README.md
+2018-01-04,03:03:53,100-days-of-code,commit,Update file: updated README.md
+2018-01-03,03:31:01,100-days-of-code,commit,Updated file: updated README.md file.
+2018-01-02,03:41:45,100-days-of-code,commit,Updated file: updated README.md
+2018-01-02,03:27:55,100-days-of-code,commit,Updated file: updated README.md
+2018-01-02,03:26:51,100-days-of-code,commit,Updated file: updated README.md
+2018-01-02,03:26:14,100-days-of-code,commit,Initial commit
+2022-06-29,14:00:45,2020,commit,Merge pull request #13 from thejessicafelts/dependabot/npm_and_yarn/copy-props-2.0.5  Bump copy-props from 2.0.4 to 2.0.5
+2021-08-13,22:11:03,2020,commit,Merge pull request #10 from thejessicafelts/dependabot/npm_and_yarn/path-parse-1.0.7  Bump path-parse from 1.0.6 to 1.0.7
+2020-09-14,17:27:07,2020,commit,Adding CPT for tracking Open Source Contributions
+2020-09-12,02:55:21,2020,commit,Incredibly rough beginning of The Loop
+2020-09-08,02:16:57,2020,commit,Adding The Loop in Index file.
+2020-09-06,18:37:07,2020,commit,"Adding Custom User Roles file, adding to functions"
+2020-09-06,13:56:31,2020,commit,Added initial styles for Changelog
+2020-09-06,13:56:22,2020,commit,Created Changelog Template page for reference
+2020-09-06,13:56:07,2020,commit,Added Changelog CPT to CPT File
+2020-09-06,03:10:08,2020,commit,Added White Label Customizations file
+2020-09-04,21:14:05,2020,commit,Removing the Posts Default Post Type.
+2020-09-04,21:03:13,2020,commit,Shortened Recommendations CPT menu name to fit.
+2020-09-04,20:57:46,2020,commit,Added Videos CPT to the CPT File
+2020-09-04,20:49:41,2020,commit,Added Tutorials CPT to the CPT File
+2020-09-04,20:47:06,2020,commit,Added Recommendation CPT to the CPT File
+2020-09-04,20:43:03,2020,commit,Added the Insights CPT to the CPT File
+2020-09-04,20:39:14,2020,commit,Added Events CPT to the CPT File.
+2020-09-04,02:57:00,2020,commit,Adding Education CPT to CPT File.
+2020-09-02,16:21:20,2020,commit,Adding Alerts CPT
+2020-09-02,16:15:27,2020,commit,Updates to the README.md file
+2020-09-01,13:28:47,2020,commit,Updates to README.md files.
+2020-09-01,13:27:42,2020,commit,Changes to README.md file.
+2020-08-31,18:52:52,2020,commit,"Updates to README file, and gulpfile to inc README"
+2020-08-30,04:17:00,2020,commit,Added Employers to CPT File
+2020-08-30,03:19:20,2020,commit,Updates to Custom Post Types outline
+2020-08-29,03:40:18,2020,commit,Updating Notes for Custom Post Types file
+2020-08-29,03:09:35,2020,commit,"Updated Functions, +Includes; +Custom Post Types"
+2020-08-29,03:07:48,2020,commit,"Updating Functions, +Error Handling"
+2020-08-29,03:05:59,2020,commit,"Updating Functions, +Scripts, +Custom Menus"
+2020-08-29,02:56:12,2020,commit,Initial Commit for CSS and SCSS Files
+2020-08-29,02:55:57,2020,commit,Initial Commit for JS Files
+2020-08-29,02:55:47,2020,commit,Initial Commit for Function Files
+2020-08-29,02:55:36,2020,commit,Initial Commit for Index Files
+2020-08-29,02:55:25,2020,commit,Initial Commit for Header Files
+2020-08-29,02:55:07,2020,commit,Initial Commit for Footer Files
+2020-08-28,03:48:00,2020,commit,"Updates to gulpfile, relating to styles"
+2020-08-28,03:47:49,2020,commit,Updates to NPM packages
+2020-08-28,03:04:47,2020,commit,Initial Commit of Files for WP Theme 2020.
+2020-04-27,03:45:13,2020,commit,Initial commit
+2020-09-08,15:21:51,2020,issue,Review Security Alert: Dependabot Alert for lodash.template
+2020-09-08,15:20:50,2020,issue,Review Security Alert: Dependabot Alert for bl
+2020-08-31,01:29:08,2020,issue,Update _themename
+2025-02-07,09:17:24,2025,commit,Initial commit
+2025-04-08,12:10:40,270toWin-Simulation-Automation,commit,Adding cover photo to README.md
+2024-10-30,05:08:49,270toWin-Simulation-Automation,commit,Update to README.md
+2024-10-30,05:03:16,270toWin-Simulation-Automation,commit,Current main file
+2024-10-30,05:02:52,270toWin-Simulation-Automation,commit,Deleting old file
+2024-10-30,05:02:05,270toWin-Simulation-Automation,commit,Data Visualization handling
+2024-10-30,05:01:40,270toWin-Simulation-Automation,commit,Update html table handling
+2024-10-30,05:01:30,270toWin-Simulation-Automation,commit,Update CSV file handler
+2024-10-30,05:00:17,270toWin-Simulation-Automation,commit,Auto-Commit file
+2024-10-30,04:58:23,270toWin-Simulation-Automation,commit,Data Formatting
+2024-10-30,04:55:59,270toWin-Simulation-Automation,commit,Data Graph Images
+2024-10-30,04:55:41,270toWin-Simulation-Automation,commit,Styling Updates + Data Visualization
+2024-10-30,04:46:43,270toWin-Simulation-Automation,commit,Automatic update on 2024-10-30 00:46:43
+2024-10-30,04:34:50,270toWin-Simulation-Automation,commit,Automatic update on 2024-10-30 00:34:50
+2024-10-30,04:31:58,270toWin-Simulation-Automation,commit,Automatic update on 2024-10-30 00:31:58
+2024-10-30,04:27:05,270toWin-Simulation-Automation,commit,Automatic update on 2024-10-30 00:27:05
+2024-10-30,04:21:28,270toWin-Simulation-Automation,commit,Automatic update on 2024-10-30 00:21:28
+2024-10-30,04:14:54,270toWin-Simulation-Automation,commit,Automatic update on 2024-10-30 00:14:54
+2024-10-30,04:07:41,270toWin-Simulation-Automation,commit,Automatic update on 2024-10-30 00:07:41
+2024-10-30,03:58:43,270toWin-Simulation-Automation,commit,Updates to Format
+2024-10-30,03:55:00,270toWin-Simulation-Automation,commit,Automatic update on 2024-10-29 23:55:00
+2024-10-30,03:33:11,270toWin-Simulation-Automation,commit,Automatic update on 2024-10-29 23:33:11
+2024-10-30,03:31:38,270toWin-Simulation-Automation,commit,Automatic update on 2024-10-29 23:31:38
+2024-10-30,03:28:55,270toWin-Simulation-Automation,commit,Automatic update on 2024-10-29 23:28:55
+2024-10-30,03:26:09,270toWin-Simulation-Automation,commit,Automatic update on 2024-10-29 23:26:09
+2024-10-30,03:22:21,270toWin-Simulation-Automation,commit,Automatic update on 2024-10-29 23:22:21
+2024-10-30,03:20:07,270toWin-Simulation-Automation,commit,Automatic update on 2024-10-29 23:20:07
+2024-10-30,03:13:53,270toWin-Simulation-Automation,commit,Automatic update on 2024-10-29 23:13:53
+2024-10-30,03:08:48,270toWin-Simulation-Automation,commit,Automatic update on 2024-10-29 23:08:48
+2024-10-30,03:03:16,270toWin-Simulation-Automation,commit,Automatic update on 2024-10-29 23:03:16
+2024-10-30,03:00:44,270toWin-Simulation-Automation,commit,Automatic update on 2024-10-29 23:00:44
+2024-10-30,02:44:34,270toWin-Simulation-Automation,commit,Automatic update on 2024-10-29 22:44:34
+2024-10-30,02:39:50,270toWin-Simulation-Automation,commit,New Results
+2024-10-30,02:39:30,270toWin-Simulation-Automation,commit,New Results
+2024-10-30,02:29:40,270toWin-Simulation-Automation,commit,New Results
+2024-10-30,02:26:42,270toWin-Simulation-Automation,commit,New Results
+2024-10-30,02:24:32,270toWin-Simulation-Automation,commit,New Results
+2024-10-30,02:17:35,270toWin-Simulation-Automation,commit,New Results
+2024-10-30,02:12:28,270toWin-Simulation-Automation,commit,New Results
+2024-10-30,02:07:34,270toWin-Simulation-Automation,commit,New Results
+2024-10-30,02:03:06,270toWin-Simulation-Automation,commit,Updating terminology
+2024-10-30,02:00:37,270toWin-Simulation-Automation,commit,Updating terminology
+2024-10-30,01:58:01,270toWin-Simulation-Automation,commit,New Results
+2024-10-30,01:49:11,270toWin-Simulation-Automation,commit,New Results
+2024-10-30,01:45:37,270toWin-Simulation-Automation,commit,Adding swingstates tab styles
+2024-10-30,01:44:06,270toWin-Simulation-Automation,commit,Changing active tab
+2024-10-30,01:43:52,270toWin-Simulation-Automation,commit,Creating .gitignore
+2024-10-30,01:42:46,270toWin-Simulation-Automation,commit,Deleting TXT file
+2024-10-30,01:33:24,270toWin-Simulation-Automation,commit,Format updates
+2024-10-30,00:52:52,270toWin-Simulation-Automation,commit,Updated Results
+2024-10-30,00:05:18,270toWin-Simulation-Automation,commit,"Add simulation results for set 9 on October 29, 2024, 20:05"
+2024-10-30,00:00:36,270toWin-Simulation-Automation,commit,"Add simulation results for set 9 on October 29, 2024, 20:00"
+2024-10-29,23:56:47,270toWin-Simulation-Automation,commit,"Add simulation results for set 9 on October 29, 2024, 19:56"
+2024-10-29,23:55:22,270toWin-Simulation-Automation,commit,"Add simulation results for set 8 on October 29, 2024, 19:55"
+2024-10-29,23:47:03,270toWin-Simulation-Automation,commit,"Add simulation results for set 7 on October 29, 2024, 19:47"
+2024-10-29,23:38:06,270toWin-Simulation-Automation,commit,"Add simulation results for set 7 on October 29, 2024, 19:38"
+2024-10-29,22:51:49,270toWin-Simulation-Automation,commit,"Add simulation results for set 6 on October 29, 2024, 18:51"
+2024-10-29,22:50:20,270toWin-Simulation-Automation,commit,Updated Results
+2024-10-29,22:49:01,270toWin-Simulation-Automation,commit,New Results
+2024-10-29,22:48:21,270toWin-Simulation-Automation,commit,New Results
+2024-10-29,22:47:39,270toWin-Simulation-Automation,commit,"Add simulation results for set 5 on October 29, 2024, 18:47"
+2024-10-29,22:46:16,270toWin-Simulation-Automation,commit,New Results
+2024-10-29,22:45:27,270toWin-Simulation-Automation,commit,"Add simulation results for set 4 on October 29, 2024, 18:45"
+2024-10-29,22:42:50,270toWin-Simulation-Automation,commit,"Add simulation results for set 3 on October 29, 2024, 18:42"
+2024-10-29,22:22:09,270toWin-Simulation-Automation,commit,"Add simulation results for set 2 on October 29, 2024, 18:22"
+2024-10-29,22:20:20,270toWin-Simulation-Automation,commit,"Add simulation results for set 1 on October 29, 2024, 18:20"
+2024-10-29,22:13:54,270toWin-Simulation-Automation,commit,"Add simulation results for set 2 on October 29, 2024, 18:13"
+2024-10-29,22:12:32,270toWin-Simulation-Automation,commit,"Add simulation results for set 1 on October 29, 2024, 18:12"
+2024-10-29,21:42:42,270toWin-Simulation-Automation,commit,"Added Simulation Results for October 29, 2024, 17:42 EDT"
+2024-10-29,21:27:54,270toWin-Simulation-Automation,commit,"Added Simulation Results for October 29, 2024, 17:27 EDT"
+2024-10-29,21:16:27,270toWin-Simulation-Automation,commit,Automation Script with Auto-Commit
+2024-10-29,21:15:14,270toWin-Simulation-Automation,commit,"Add simulation results for October 29, 2024, 17:15"
+2024-10-29,21:01:26,270toWin-Simulation-Automation,commit,New Results
+2024-10-29,20:59:20,270toWin-Simulation-Automation,commit,New Results
+2024-10-29,20:53:52,270toWin-Simulation-Automation,commit,New Results
+2024-10-29,20:50:02,270toWin-Simulation-Automation,commit,"New results, updates to styles"
+2024-10-29,20:36:14,270toWin-Simulation-Automation,commit,New Results
+2024-10-29,20:34:21,270toWin-Simulation-Automation,commit,Adding new script
+2024-10-29,20:33:56,270toWin-Simulation-Automation,commit,Adding simulation results runs
+2024-10-29,19:49:01,270toWin-Simulation-Automation,commit,Styling updates
+2024-10-29,19:46:02,270toWin-Simulation-Automation,commit,Updating Copy functionality
+2024-10-29,19:38:50,270toWin-Simulation-Automation,commit,Correcting ID to Class
+2024-10-29,19:37:05,270toWin-Simulation-Automation,commit,"Updating styling, adding tab"
+2024-10-29,18:09:49,270toWin-Simulation-Automation,commit,"New Tabs, Information"
+2024-10-29,17:51:16,270toWin-Simulation-Automation,commit,Adding results
+2024-10-24,04:15:02,270toWin-Simulation-Automation,commit,Adding new results row
+2024-10-24,03:59:23,270toWin-Simulation-Automation,commit,Updates to Banner
+2024-10-24,03:49:03,270toWin-Simulation-Automation,commit,Update stylesheet link
+2024-10-24,03:47:59,270toWin-Simulation-Automation,commit,Initial Results
+2024-10-24,02:38:01,270toWin-Simulation-Automation,commit,Updating webpage structure
+2024-10-24,02:34:49,270toWin-Simulation-Automation,commit,Updating file
+2024-10-24,02:33:34,270toWin-Simulation-Automation,commit,Create static.yml
+2024-10-24,02:22:34,270toWin-Simulation-Automation,commit,Adding webpage
+2024-10-23,23:59:04,270toWin-Simulation-Automation,commit,Update README.md
+2024-10-23,23:58:28,270toWin-Simulation-Automation,commit,Update README.md
+2024-10-23,23:56:49,270toWin-Simulation-Automation,commit,Adding README.md file
+2024-10-23,23:25:15,270toWin-Simulation-Automation,commit,Initial Commit for Simulation
+2018-02-11,21:36:11,acf-field-types,commit,added MIT License to this project
+2017-12-26,17:53:02,acf-field-types,commit,Merge branch 'master' of https://github.com/thejessicafelts/acf-field-types
+2017-12-26,17:47:52,acf-field-types,commit,updated file: corrected slight formatting errors.
+2017-12-26,17:40:57,acf-field-types,commit,Update README.md
+2017-12-26,17:35:17,acf-field-types,commit,ACF Field Type examples for Registering by PHP.
+2017-12-26,16:15:23,acf-field-types,commit,Initial commit
+2016-06-24,19:59:20,apps,commit,Initial Commit  Initial Commit of Index.html
+2024-12-03,00:36:07,articles,commit,Updating CSS links
+2024-12-01,05:04:46,articles,commit,Updates to archive page
+2024-12-01,05:01:01,articles,commit,Updating styles
+2024-12-01,04:55:58,articles,commit,Updating Styles + Adding Footer
+2024-12-01,04:17:56,articles,commit,Update to articles headers
+2024-11-29,20:23:39,articles,commit,Adding new article
+2024-11-29,20:22:51,articles,commit,Adding new article
+2024-11-29,20:03:15,articles,commit,Updating LinkedIn link
+2024-11-29,20:01:47,articles,commit,Fix: article link
+2024-11-29,20:00:31,articles,commit,Updating Article link
+2024-11-29,20:00:02,articles,commit,Removing MD files
+2024-11-29,19:59:01,articles,commit,Adding index file
+2024-11-29,19:55:42,articles,commit,Updating article URL
+2024-11-29,19:54:46,articles,commit,Moving article location
+2024-11-29,19:50:18,articles,commit,Updating styles
+2024-11-29,19:49:28,articles,commit,Changing article link
+2024-11-29,19:49:12,articles,commit,Adding article HTML and CSS
+2024-11-29,19:14:31,articles,commit,Updating Article Link
+2024-10-14,08:37:16,articles,commit,Create README.md
+2024-10-14,08:35:26,articles,commit,Article: The Future of UI Engineering
+2025-01-18,16:06:08,babys-first-neural-network,commit,Image Analyzer
+2025-01-17,21:51:12,babys-first-neural-network,commit,Initial commit
+2019-01-04,02:27:41,border-radius-visualization,commit,Initial Commit of all Project Files.
+2024-10-09,04:53:10,budget-app,commit,Update to Income Sources
+2024-10-07,03:26:33,budget-app,commit,Initial Budgeting App
+2025-03-15,17:52:01,builtwith-scraper,commit,Spelling Correction
+2025-03-15,17:47:53,builtwith-scraper,commit,Initial Commit
+2024-02-16,07:58:23,button-styles,commit,Basic Button Styles
+2024-02-16,07:52:14,button-styles,commit,Arranging Cards
+2024-02-16,07:46:45,button-styles,commit,Initial Commit
+2023-12-18,17:51:14,CodingTest-OakStreetHealth,commit,Solution
+2023-12-09,17:27:49,CodingTest-OakStreetHealth,commit,Initial commit
+2023-08-13,16:05:49,collatz-conjecture,commit,Updated folder name
+2023-08-13,16:04:53,collatz-conjecture,commit,Correcting README.md link
+2023-08-13,16:03:36,collatz-conjecture,commit,Updating README.md Files
+2023-08-13,16:02:08,collatz-conjecture,commit,Added C++ Solution
+2023-08-13,14:29:05,collatz-conjecture,commit,"Removing HTML, CSS, and original JS files."
+2023-08-13,14:27:18,collatz-conjecture,commit,Updating README.md Files
+2023-08-13,14:25:38,collatz-conjecture,commit,Updating README.md Files
+2023-08-13,14:25:04,collatz-conjecture,commit,Updating README.md Files
+2023-08-13,14:23:54,collatz-conjecture,commit,Updating README.md Files
+2023-08-13,14:22:08,collatz-conjecture,commit,Updating README.md Files
+2023-08-13,14:19:37,collatz-conjecture,commit,Updating README.md Files
+2023-08-13,14:15:39,collatz-conjecture,commit,Updating README.md Files
+2023-08-13,14:13:48,collatz-conjecture,commit,Adding spacing to JS solution
+2023-08-13,14:10:49,collatz-conjecture,commit,Adding space after user prompt
+2023-08-13,14:08:44,collatz-conjecture,commit,Updated README.md
+2023-08-13,14:08:35,collatz-conjecture,commit,Updated Python solution
+2023-08-13,14:08:23,collatz-conjecture,commit,Updated JavaScript solution
+2023-08-13,13:48:32,collatz-conjecture,commit,Updated Collatz conjecture for Python
+2023-08-13,13:48:17,collatz-conjecture,commit,Added comment to top of file.
+2023-08-13,13:33:31,collatz-conjecture,commit,Updated Collatz conjecture for JavaScript
+2023-08-09,10:47:14,collatz-conjecture,commit,Working the Collatz Conjecture in Python
+2021-08-24,19:21:59,collatz-conjecture,commit,Merge pull request #4 from thejessicafelts/ui-update  UI update
+2021-08-24,19:20:51,collatz-conjecture,commit,Adding Header Top Bar for GitHub Pages
+2021-08-24,19:08:05,collatz-conjecture,commit,Adding Header Top Bar for GitHub Pages
+2021-08-24,13:41:46,collatz-conjecture,commit,Merge pull request #3 from thejessicafelts/ui-update  Adding Header Top Bar for GitHub Pages
+2021-08-24,13:32:11,collatz-conjecture,commit,Adding Header Top Bar for GitHub Pages
+2021-08-23,20:53:08,collatz-conjecture,commit,Merge pull request #2 from thejessicafelts/ui-update  Expanded Solution
+2021-08-23,20:42:34,collatz-conjecture,commit,Expanded Solution
+2021-08-19,15:38:30,collatz-conjecture,commit,Merge pull request #1 from thejessicafelts/ui-update  UI update
+2021-08-19,15:36:03,collatz-conjecture,commit,Updates to README.md
+2021-08-19,15:32:14,collatz-conjecture,commit,Updates to UI and Information
+2021-08-19,15:32:07,collatz-conjecture,commit,Updates to UI and Information
+2021-08-19,00:32:59,collatz-conjecture,commit,Updates to UI and Information
+2021-08-19,00:07:55,collatz-conjecture,commit,Updates to Output Summary
+2021-08-18,16:08:52,collatz-conjecture,commit,Updates to UI and Information
+2021-08-18,15:22:43,collatz-conjecture,commit,Updates to README.md
+2021-08-18,15:21:36,collatz-conjecture,commit,Adding Output Summary to UI.
+2021-08-17,21:11:07,collatz-conjecture,commit,Updates to README.md
+2021-08-17,20:38:36,collatz-conjecture,commit,Updates to README.md
+2021-08-17,20:37:21,collatz-conjecture,commit,Updates to README.md
+2021-08-17,20:24:18,collatz-conjecture,commit,Updates to README.md
+2021-08-17,20:16:15,collatz-conjecture,commit,Updates to README.md
+2021-08-17,20:15:46,collatz-conjecture,commit,Updates to README.md
+2021-08-17,20:14:19,collatz-conjecture,commit,Updates to README.md
+2021-08-17,20:12:19,collatz-conjecture,commit,Updates to README.md
+2021-08-17,20:08:06,collatz-conjecture,commit,Updates to program w/ maxNumber
+2021-08-17,19:53:36,collatz-conjecture,commit,Updates to README.md
+2021-08-17,19:36:43,collatz-conjecture,commit,Setting and using maxNumber
+2021-08-17,19:16:52,collatz-conjecture,commit,"Collatz Conjecture proof, working in console."
+2021-08-17,19:10:14,collatz-conjecture,commit,"Collatz Conjecture proof, working in console."
+2021-08-17,19:09:48,collatz-conjecture,commit,UI Updates
+2021-08-17,18:08:58,collatz-conjecture,commit,Update to js
+2021-08-17,16:00:10,collatz-conjecture,commit,Steps 1 and 2.
+2021-08-17,15:43:00,collatz-conjecture,commit,Updates to JS
+2021-08-17,15:42:49,collatz-conjecture,commit,UI Updates
+2021-08-17,15:20:30,collatz-conjecture,commit,UI Updates
+2021-08-17,15:05:45,collatz-conjecture,commit,Initial UI build
+2021-08-17,03:30:40,collatz-conjecture,commit,Updates to README
+2021-08-17,03:29:02,collatz-conjecture,commit,Updates to README
+2021-08-17,03:24:07,collatz-conjecture,commit,Updates to README
+2021-08-17,03:23:48,collatz-conjecture,commit,Updates to README
+2021-08-17,03:21:58,collatz-conjecture,commit,Adding README
+2021-08-17,02:29:04,collatz-conjecture,commit,Initial program
+2021-08-24,19:21:50,collatz-conjecture,pull_request,UI update
+2021-08-24,13:41:40,collatz-conjecture,pull_request,Adding Header Top Bar for GitHub Pages
+2021-08-23,20:53:00,collatz-conjecture,pull_request,Expanded Solution
+2021-08-19,15:37:53,collatz-conjecture,pull_request,UI update
+2017-01-16,14:05:03,color-clock,commit,Update to files and file structure for color-clock
+2016-12-07,00:07:26,color-clock,commit,Initial Commit for function.js
+2016-12-07,00:07:17,color-clock,commit,Initial Commit for main.css
+2016-12-07,00:07:04,color-clock,commit,Initial Commit for Index.html
+2025-02-18,09:58:38,currency-denomination-challenge,commit,README.md revisions
+2025-02-18,09:57:39,currency-denomination-challenge,commit,README.md revisions
+2025-02-18,09:54:04,currency-denomination-challenge,commit,Including README.md file
+2025-02-18,09:42:43,currency-denomination-challenge,commit,Update to Project Files
+2025-04-12,09:43:18,devlog-automation,commit,Initial commit
+2025-04-15,13:11:02,devlog-csv,commit,Initial commit to devlog-csv.py script
+2025-04-15,13:10:46,devlog-csv,commit,README.md commit
+2025-04-15,11:03:46,devlog-csv,commit,Initial commit
+2024-02-27,23:35:26,edu,commit,Updating README file for textbook
+2024-02-27,23:29:34,edu,commit,Updating README file for textbook
+2024-02-27,23:15:49,edu,commit,Updating Chapter File Name Format
+2024-02-27,23:13:22,edu,commit,Updating Folder Names
+2024-02-27,23:11:21,edu,commit,Update to Openstax Biology 2e Chapter 1 PDF
+2024-02-27,23:05:47,edu,commit,.gitignore file
+2024-02-27,23:05:05,edu,commit,Openstax Biology 2e Chapter 17 PDF
+2024-02-27,23:05:01,edu,commit,Openstax Biology 2e Chapter 16 PDF
+2024-02-27,23:04:55,edu,commit,Openstax Biology 2e Chapter 15 PDF
+2024-02-27,23:04:50,edu,commit,Openstax Biology 2e Chapter 14 PDF
+2024-02-27,23:04:44,edu,commit,Openstax Biology 2e Chapter 13 PDF
+2024-02-27,23:04:38,edu,commit,Openstax Biology 2e Chapter 12 PDF
+2024-02-27,23:04:31,edu,commit,Openstax Biology 2e Chapter 11 PDF
+2024-02-27,23:04:23,edu,commit,Openstax Biology 2e Chapter 10 PDF
+2024-02-27,23:04:15,edu,commit,Openstax Biology 2e Chapter 9 PDF
+2024-02-27,23:04:04,edu,commit,Openstax Biology 2e Chapter 8 PDF
+2024-02-27,23:03:58,edu,commit,Openstax Biology 2e Chapter 7 PDF
+2024-02-27,23:03:43,edu,commit,Openstax Biology 2e Chapter 6 PDF
+2024-02-27,23:03:31,edu,commit,Openstax Biology 2e Chapter 5 PDF
+2024-02-27,23:03:26,edu,commit,Openstax Biology 2e Chapter 4 PDF
+2024-02-27,23:03:19,edu,commit,Openstax Biology 2e Chapter 3 PDF
+2024-02-27,23:03:12,edu,commit,Openstax Biology 2e Chapter 2 PDF
+2024-02-27,23:03:04,edu,commit,Openstax Biology 2e Chapter 1 PDF
+2023-04-20,05:37:18,education,commit,Initial commit
+2025-02-20,08:34:40,eo-checker,commit,Revised which information is gathered.
+2025-02-20,08:31:38,eo-checker,commit,Revsided script to avoid duplications.
+2025-02-18,09:12:57,eo-checker,commit,Adding README.md file
+2025-02-18,09:09:18,eo-checker,commit,EO Checker Initial Commit
+2017-12-11,01:19:21,feltsjensen-theme,commit,"feature; new files: added index, header, and footer files to theme."
+2017-12-11,01:18:07,feltsjensen-theme,commit,feature; new files: added main asset files to theme.
+2017-12-11,01:17:17,feltsjensen-theme,commit,feature; new files: added vendor files to theme.
+2024-02-20,03:59:26,flashcards,commit,Updating DNA csv file.
+2024-02-20,03:55:02,flashcards,commit,Updating DNA csv file.
+2024-02-20,03:52:07,flashcards,commit,Adding .apkg ANKI file.
+2024-02-20,03:36:48,flashcards,commit,Uploading DNA flashcards.
+2020-01-03,04:30:31,income-tax-calculator,commit,Update README.md
+2018-04-04,03:19:21,income-tax-calculator,commit,Update README.md
+2018-04-02,01:23:29,income-tax-calculator,commit,updated income tax calculator stylesheet files.
+2018-02-10,04:22:12,income-tax-calculator,commit,updated file: updated file  Adding section regarding tax information for users.
+2018-02-06,04:11:23,income-tax-calculator,commit,updated file: updated README.md
+2017-11-07,12:46:16,income-tax-calculator,commit,"updated file: Modified fuctionality for submit, and reset, as well as to display results of the calculations. :"
+2017-11-07,12:45:36,income-tax-calculator,commit,updated file: Added new styles for the interface of calculator.
+2017-11-07,12:45:16,income-tax-calculator,commit,updated file: Added new functionality for main.js file.
+2017-11-04,22:07:18,income-tax-calculator,commit,new file: Added javascript file for an array of Michigan zipcodes.
+2017-11-04,20:00:07,income-tax-calculator,commit,"New program setup, with vendor files, and new interface."
+2017-06-03,03:18:35,income-tax-calculator,commit,Updated README.md  Added correct punctuation.
+2017-06-02,02:25:07,income-tax-calculator,commit,Updated README.md  Added colons.
+2017-01-16,12:47:07,income-tax-calculator,commit,Update to income-tax.js  Wrapped program in a function
+2016-12-06,20:26:24,income-tax-calculator,commit,Merge pull request #1 from thejessicafelts/ReadMe-Changes  Updates to ReadMe.md
+2016-12-06,20:23:27,income-tax-calculator,commit,Update README.md
+2016-12-06,20:23:10,income-tax-calculator,commit,Update README.md
+2016-12-06,20:22:38,income-tax-calculator,commit,Update README.md
+2016-12-06,20:21:55,income-tax-calculator,commit,Update README.md
+2016-12-06,20:21:16,income-tax-calculator,commit,Update to ReadMe.md  Included new updates
+2016-12-06,20:19:26,income-tax-calculator,commit,Update README.md
+2016-12-02,19:51:00,income-tax-calculator,commit,Update income-tax.js  Corrected spelling errors.
+2016-02-26,18:47:43,income-tax-calculator,commit,Create income-tax.js  Initial Commit for the income-tax.js JavaScript file. This is the chunk of text you will run in your browser's console for the time being.
+2016-02-26,18:45:20,income-tax-calculator,commit,Update README.md  Adding line breaks in Current Limitations section.
+2016-02-26,18:44:31,income-tax-calculator,commit,Update README.md  Updating the README.md file.
+2016-02-26,18:40:31,income-tax-calculator,commit,Initial commit
+2016-12-06,20:26:10,income-tax-calculator,pull_request,Updates to ReadMe.md
+2023-09-08,18:58:28,incometax,commit,Updates to Income Calculator
+2023-09-08,18:56:18,incometax,commit,Updates to Income Calculator
+2023-09-08,18:05:04,incometax,commit,Updates to Income Calculator
+2023-09-08,07:50:18,incometax,commit,Income Tax Calculator
+2024-11-22,12:33:12,income_tax_calculator--2024,commit,Displaying Results in UI
+2024-11-22,12:15:51,income_tax_calculator--2024,commit,UI Updates
+2024-11-22,12:03:34,income_tax_calculator--2024,commit,README.md
+2024-11-22,12:01:07,income_tax_calculator--2024,commit,Update to JS
+2024-11-22,12:00:31,income_tax_calculator--2024,commit,2024 Federal Income Tax Brackets
+2024-11-22,11:49:37,income_tax_calculator--2024,commit,Updating Calculator
+2024-11-21,13:22:34,income_tax_calculator--2024,commit,2024 Income Tax Calculator
+2017-03-24,02:02:43,java-game,commit,Update to VoidTile.java
+2017-03-24,02:02:36,java-game,commit,Update to GrassTile.java
+2017-03-24,02:02:29,java-game,commit,Update to RandomLevel.java
+2017-03-24,02:02:19,java-game,commit,Update to Level.java
+2017-03-24,02:02:09,java-game,commit,Update to Sprite.java
+2017-03-24,02:02:01,java-game,commit,Update to Screen.java
+2017-03-24,02:01:55,java-game,commit,Created Mob.java
+2017-03-24,02:01:49,java-game,commit,Created Entity.java
+2017-03-24,02:01:42,java-game,commit,Updates to game.java
+2017-03-06,05:11:09,java-game,commit,Creation of VoidTile.java  Created the VoidTile class
+2017-03-06,05:10:55,java-game,commit,Update to tile.java  create a voidTile
+2017-03-06,05:10:45,java-game,commit,Update to level.java  Returning voidTile instead of null
+2017-03-06,05:10:31,java-game,commit,Update to sprite.java  Creating voidSprite and specifying constructor
+2017-03-06,05:00:01,java-game,commit,"Update to level.java  Imported Tile into Level class, included function to get tiles."
+2017-03-06,04:50:50,java-game,commit,Update to GrassTile.java  Beginning to render the Grass Tile
+2017-03-06,04:50:29,java-game,commit,"Update to level.java  Defining the render region of the screen by defining x0, x1, y0 and y1"
+2017-03-06,04:50:09,java-game,commit,Update to screen.java  Changing width and height variables to public
+2017-03-06,04:49:52,java-game,commit,Update to .gitignore file  Ignoring all .psd files.
+2017-03-05,22:52:56,java-game,commit,Update to Level.java
+2017-02-28,02:12:31,java-game,commit,Update to README.md
+2017-02-27,03:16:33,java-game,commit,"Update to Screen.java  Nesting for loop for x, adding code to restrict screen and to defile pixels."
+2017-02-26,03:17:25,java-game,commit,Created character.png  A simple character sprite sheet for testing purposes.
+2017-02-26,03:17:12,java-game,commit,Update to screen.java  Included function for rendering individual tiles in the game.
+2017-02-25,02:16:37,java-game,commit,Created GrassTile.java  Created new class GrassTile for grass tiles.
+2017-02-25,02:16:17,java-game,commit,Update to Tile.java  Added a new tile for GrassTile
+2017-02-25,02:15:50,java-game,commit,Update to game.java  Changed scaling of the canvas.
+2017-02-25,02:15:31,java-game,commit,Update to sprite sheet.png  Redesigned the Grass tile on the spritesheet.
+2017-02-24,02:29:35,java-game,commit,Creation of Tile.java  Created new class for Tiles.
+2017-02-24,01:08:47,java-game,commit,Creation of RandomLevel class  Created RandomLevel class to randomly generate levels within the game.
+2017-02-24,01:08:25,java-game,commit,"Update to level.java  Changing private to protected for int width, int height, int[] tiles and generateLevel()"
+2017-02-23,05:35:29,java-game,commit,Creation of level.java  Created Level class to implement levels at a later point
+2017-02-23,05:20:00,java-game,commit,Bug Fix  Changed “y < width” to “x < width”
+2017-02-23,04:47:52,java-game,commit,Update to .gitignore file  Added .classpath and .psd
+2017-02-23,04:47:27,java-game,commit,Creation of spritesheet.png
+2017-02-23,04:47:19,java-game,commit,Creation of sprite.java
+2017-02-23,04:47:13,java-game,commit,Creation of spritesheet.java
+2017-02-23,04:47:04,java-game,commit,Update to keyboard.java
+2017-02-23,04:46:59,java-game,commit,Update to screen.java
+2017-02-23,04:46:47,java-game,commit,Update to game.java
+2017-02-22,18:41:57,java-game,commit,Updates to game.java
+2017-02-22,18:41:49,java-game,commit,Updates to screen.java
+2017-02-22,18:41:43,java-game,commit,Initial Commit keyboard.java
+2017-02-22,08:38:24,java-game,commit,Updates to game.java  Changing application screen size.
+2017-02-22,08:38:10,java-game,commit,Update to screen.java  updates to screen.java
+2017-02-22,08:24:43,java-game,commit,Update to screen.java
+2017-02-22,08:24:36,java-game,commit,Update to game.java
+2017-02-22,06:39:41,java-game,commit,Created screen.java
+2017-02-22,06:39:32,java-game,commit,Update to game.java  Working with screen.java
+2017-02-22,06:32:41,java-game,commit,Update to game.java  Update to game.java
+2017-02-22,06:32:33,java-game,commit,Update to .gitignore  Added .project to .gitignore file
+2017-02-22,06:26:17,java-game,commit,Update to game.java
+2017-02-22,06:26:11,java-game,commit,Create file .gitignore
+2017-02-22,06:19:14,java-game,commit,Create README.md  Creating a README file.
+2017-02-22,06:17:39,java-game,commit,Removing game.cass and bin
+2017-02-22,06:17:24,java-game,commit,Removing .project
+2017-02-22,06:17:15,java-game,commit,Removing .classpath
+2017-02-22,06:17:03,java-game,commit,Removing .settings
+2017-02-22,06:08:02,java-game,commit,Update to game.java
+2017-02-22,04:54:11,java-game,commit,Update to game.java
+2017-02-22,04:27:51,java-game,commit,Update to game.java
+2017-02-22,04:19:47,java-game,commit,Update to game.java
+2017-02-22,04:12:26,java-game,commit,Initial Commit for Game files
+2019-02-04,02:43:17,jessicafelts-2019_theme,commit,Created: functions file for theme.
+2019-02-04,02:43:06,jessicafelts-2019_theme,commit,Created: single posts template
+2019-02-04,02:42:52,jessicafelts-2019_theme,commit,Created: comments template
+2019-02-04,02:42:42,jessicafelts-2019_theme,commit,Created: author template
+2019-02-04,02:42:29,jessicafelts-2019_theme,commit,Created: 404 template
+2019-02-04,02:42:14,jessicafelts-2019_theme,commit,Updated: front-page template
+2019-02-04,02:42:03,jessicafelts-2019_theme,commit,Updated: header and footer templates.
+2019-02-03,17:53:35,jessicafelts-2019_theme,commit,Created: README.md file for this project.
+2019-02-03,17:52:40,jessicafelts-2019_theme,commit,Deleted: all unnecessary files left over from merge.
+2019-02-03,17:51:48,jessicafelts-2019_theme,commit,"Merge: merging files, will clean up later."
+2019-02-03,17:44:52,jessicafelts-2019_theme,commit,Updated: index to include header and footer inclues.
+2019-02-03,17:44:39,jessicafelts-2019_theme,commit,Updated: front-page to included header and footer includes.
+2019-02-03,17:44:21,jessicafelts-2019_theme,commit,Created: header.php and footer.php to include in theme templates.
+2019-02-03,17:44:01,jessicafelts-2019_theme,commit,Created: style.css file required by WP themes.
+2019-02-03,17:42:00,jessicafelts-2019_theme,commit,"Updated: README.md file, to include correct title and subtitle."
+2019-02-03,17:39:16,jessicafelts-2019_theme,commit,"Deleted: Accidentally merged from theme directory, deleting front-page and index file duplicates."
+2019-02-03,17:31:42,jessicafelts-2019_theme,commit,Merge branch 'master' of https://github.com/thejessicafelts/jessicafelts-2019_theme
+2019-02-03,17:28:58,jessicafelts-2019_theme,commit,Renamed: style.scss to main.scss for all main styles to be included.
+2019-02-03,17:28:22,jessicafelts-2019_theme,commit,Added: header and footer files to be included in template files.
+2019-02-03,17:27:52,jessicafelts-2019_theme,commit,Updated: index to include header and footer includes.
+2019-02-03,17:27:34,jessicafelts-2019_theme,commit,Updated: front-page to included header and footer includes.
+2019-02-03,17:26:49,jessicafelts-2019_theme,commit,Updated: gulpfile to remove browsersync options.
+2019-02-03,03:25:55,jessicafelts-2019_theme,commit,Initial Commit
+2019-02-03,03:22:55,jessicafelts-2019_theme,commit,"created a new theme source, initial commit of most files."
+2019-02-03,01:09:23,jessicafelts-2019_theme,commit,Initial commit
+2019-02-04,02:41:00,jessicafelts-2019_theme_src,commit,"Created: assets folder, and included main.js and main.scss files."
+2019-02-04,02:40:35,jessicafelts-2019_theme_src,commit,Created: functions file for theme
+2019-02-04,02:40:16,jessicafelts-2019_theme_src,commit,Updated: front-page template
+2019-02-04,02:40:00,jessicafelts-2019_theme_src,commit,Created: single post template
+2019-02-04,02:39:42,jessicafelts-2019_theme_src,commit,Created: comments template
+2019-02-04,02:39:24,jessicafelts-2019_theme_src,commit,Created: author template
+2019-02-04,02:39:09,jessicafelts-2019_theme_src,commit,Created: 404 error page.
+2019-02-04,02:38:50,jessicafelts-2019_theme_src,commit,Updated: header and footer templates.
+2019-02-04,02:38:23,jessicafelts-2019_theme_src,commit,"Deleted: main.scss file, attemping to rework the css structure of this project."
+2019-02-03,17:42:00,jessicafelts-2019_theme_src,commit,"Updated: README.md file, to include correct title and subtitle."
+2019-02-03,17:39:16,jessicafelts-2019_theme_src,commit,"Deleted: Accidentally merged from theme directory, deleting front-page and index file duplicates."
+2019-02-03,17:31:42,jessicafelts-2019_theme_src,commit,Merge branch 'master' of https://github.com/thejessicafelts/jessicafelts-2019_theme
+2019-02-03,17:28:58,jessicafelts-2019_theme_src,commit,Renamed: style.scss to main.scss for all main styles to be included.
+2019-02-03,17:28:22,jessicafelts-2019_theme_src,commit,Added: header and footer files to be included in template files.
+2019-02-03,17:27:52,jessicafelts-2019_theme_src,commit,Updated: index to include header and footer includes.
+2019-02-03,17:27:34,jessicafelts-2019_theme_src,commit,Updated: front-page to included header and footer includes.
+2019-02-03,17:26:49,jessicafelts-2019_theme_src,commit,Updated: gulpfile to remove browsersync options.
+2019-02-03,03:25:55,jessicafelts-2019_theme_src,commit,Initial Commit
+2019-02-03,03:22:55,jessicafelts-2019_theme_src,commit,"created a new theme source, initial commit of most files."
+2019-02-03,01:09:23,jessicafelts-2019_theme_src,commit,Initial commit
+2017-08-30,14:22:43,jm-orangegrove-plugin,commit,Update to plugin.php
+2017-06-07,11:48:25,jm-orangegrove-plugin,commit,Initial Commit for Jack Morton Data plugin.
+2017-08-30,14:41:56,jm-orangegrove-theme,commit,Create template-list.php
+2017-08-30,14:41:40,jm-orangegrove-theme,commit,Create template-grid_4-column.php
+2017-08-30,14:41:24,jm-orangegrove-theme,commit,Create template-grid_3-column.php
+2017-08-30,14:41:03,jm-orangegrove-theme,commit,Create template-dashboard_local.php
+2017-08-30,14:40:47,jm-orangegrove-theme,commit,Create template-custom_landing.php
+2017-08-30,14:40:24,jm-orangegrove-theme,commit,Create style.css
+2017-08-30,14:40:12,jm-orangegrove-theme,commit,Create single-shout_outs.php
+2017-08-30,14:40:01,jm-orangegrove-theme,commit,Create single-rfp_boilerplate.php
+2017-08-30,14:39:45,jm-orangegrove-theme,commit,Create single-presentations.php
+2017-08-30,14:39:34,jm-orangegrove-theme,commit,Create single-photography.php
+2017-08-30,14:39:19,jm-orangegrove-theme,commit,Create single-news.php
+2017-08-30,14:39:09,jm-orangegrove-theme,commit,Create single-names_faces.php
+2017-08-30,14:38:55,jm-orangegrove-theme,commit,Create single-jack_work.php
+2017-08-30,14:38:43,jm-orangegrove-theme,commit,Create single-jack_play.php
+2017-08-30,14:38:23,jm-orangegrove-theme,commit,Create single-illustrations.php
+2017-08-30,14:38:10,jm-orangegrove-theme,commit,Create single-hr_article.php
+2017-08-30,14:37:56,jm-orangegrove-theme,commit,Create single-completed_proposal.php
+2017-08-30,14:37:42,jm-orangegrove-theme,commit,Create single-com_article.php
+2017-08-30,14:37:29,jm-orangegrove-theme,commit,Create single-case_study.php
+2017-08-30,14:36:55,jm-orangegrove-theme,commit,Create single-brand_assets.php
+2017-08-30,14:36:21,jm-orangegrove-theme,commit,Create searchform.php
+2017-08-30,14:36:10,jm-orangegrove-theme,commit,Create search.php
+2017-08-30,14:35:57,jm-orangegrove-theme,commit,Create results-rfp_boilerplates.php
+2017-08-30,14:35:37,jm-orangegrove-theme,commit,Create results-photography.php
+2017-08-30,14:35:13,jm-orangegrove-theme,commit,Create results-names_faces.php
+2017-08-30,14:35:01,jm-orangegrove-theme,commit,Create results-illustrations.php
+2017-08-30,14:34:49,jm-orangegrove-theme,commit,Create results-hr.php
+2017-08-30,14:34:26,jm-orangegrove-theme,commit,Create results-communications.php
+2017-08-30,14:34:14,jm-orangegrove-theme,commit,Create results-case_studies.php
+2017-08-30,14:34:01,jm-orangegrove-theme,commit,Create local-shout-outs.php
+2017-08-30,14:33:22,jm-orangegrove-theme,commit,Create local-names_faces.php
+2017-08-30,14:33:02,jm-orangegrove-theme,commit,Create local-jack_work.php
+2017-08-30,14:32:51,jm-orangegrove-theme,commit,Create local-jack_play.php
+2017-08-30,14:32:39,jm-orangegrove-theme,commit,Create index.php
+2017-08-30,14:32:28,jm-orangegrove-theme,commit,Create HR_test.php
+2017-08-30,14:32:13,jm-orangegrove-theme,commit,Create header.php
+2017-08-30,14:32:01,jm-orangegrove-theme,commit,Create functions.php
+2017-08-30,14:31:50,jm-orangegrove-theme,commit,Create front-page.php
+2017-08-30,14:31:38,jm-orangegrove-theme,commit,Create footer.php
+2017-08-30,14:31:28,jm-orangegrove-theme,commit,Create archive-shout-outs.php
+2017-08-30,14:30:50,jm-orangegrove-theme,commit,Create archive-rfp_boilerplate.php
+2017-08-30,14:30:31,jm-orangegrove-theme,commit,Create archive-presentations.php
+2017-08-30,14:30:18,jm-orangegrove-theme,commit,Create archive-photography.php
+2017-08-30,14:29:55,jm-orangegrove-theme,commit,Create archive-news.php
+2017-08-30,14:29:20,jm-orangegrove-theme,commit,Create archive-names_faces.php
+2017-08-30,14:29:05,jm-orangegrove-theme,commit,Create archive-jack_work.php
+2017-08-30,14:28:49,jm-orangegrove-theme,commit,Create archive-jack_play.php
+2017-08-30,14:28:34,jm-orangegrove-theme,commit,Create archive-jack_awards.php
+2017-08-30,14:28:18,jm-orangegrove-theme,commit,Create archive-illustrations.php
+2017-08-30,14:28:02,jm-orangegrove-theme,commit,Create archive-hr_article.php
+2017-08-30,14:27:42,jm-orangegrove-theme,commit,Create archive-completed_proposal.php
+2017-08-30,14:27:24,jm-orangegrove-theme,commit,Create archive-com_article.php
+2017-08-30,14:27:06,jm-orangegrove-theme,commit,Create archive-case_study.php
+2017-08-30,14:26:44,jm-orangegrove-theme,commit,Create archive-brand_assets.php
+2017-08-30,14:26:19,jm-orangegrove-theme,commit,Create 404.php
+2017-08-30,14:25:44,jm-orangegrove-theme,commit,Create README.md
+2025-04-08,11:51:03,job-seeker,commit,Adding cover image
+2025-04-08,11:33:47,job-seeker,commit,Updating documentation
+2025-04-08,11:18:14,job-seeker,commit,Searching for unique results
+2025-04-08,11:11:17,job-seeker,commit,renaming processed_urls.txt to sampleProcessedUrls.txt
+2025-04-08,11:06:12,job-seeker,commit,update to processed urls
+2025-04-08,11:05:26,job-seeker,commit,update to processed urls
+2025-04-08,11:03:52,job-seeker,commit,Updates to script
+2025-04-08,11:03:30,job-seeker,commit,blank processed_urls.txt file
+2025-04-08,10:34:32,job-seeker,commit,Updates to README.md
+2025-04-08,10:29:59,job-seeker,commit,Update to .gitignore
+2025-04-08,10:29:19,job-seeker,commit,Updates to sample config file
+2025-04-08,10:01:24,job-seeker,commit,Update to README.md
+2025-04-08,09:57:53,job-seeker,commit,Update to gitignore
+2025-04-08,09:57:14,job-seeker,commit,Initial commit
+2025-04-08,09:55:16,job-seeker,commit,README.md file
+2025-04-08,09:35:12,job-seeker,commit,.gitignore file
+2025-04-08,09:33:32,job-seeker,commit,Sample config file
+2025-03-17,04:12:38,job-tracker,commit,Initial Commit for project
+2018-02-01,02:18:44,js-bookmarks-app,commit,updated file: updated README.md
+2017-08-30,18:24:00,js-bookmarks-app,commit,Initial commit for CSS and JS files.
+2017-08-30,18:22:26,js-bookmarks-app,commit,Initial commit for CSS and JS files.
+2017-08-30,17:58:32,js-bookmarks-app,commit,Initial commit
+2024-06-15,01:54:41,lab-notebooks,commit,Adding Organic Chemistry Notebook
+2024-06-15,01:54:33,lab-notebooks,commit,Adding Introduction to Chemistry Notebook
+2024-06-15,01:54:22,lab-notebooks,commit,Adding Biochemistry Notebook
+2024-06-15,01:54:11,lab-notebooks,commit,Adding Neuroscience Notebook
+2024-06-15,01:50:21,lab-notebooks,commit,Adding  General Chemistry Notebook
+2024-06-15,01:48:52,lab-notebooks,commit,Nesting Folders into Biology
+2024-06-15,01:46:36,lab-notebooks,commit,Adding Unknown Samples Lab Folder
+2024-06-15,01:46:28,lab-notebooks,commit,Adding Spectrophotometry Lab Folder
+2024-06-15,01:46:16,lab-notebooks,commit,Adding SNP Lab Folder
+2024-06-15,01:45:55,lab-notebooks,commit,Adding pVIB Lab Folder
+2024-06-15,01:45:47,lab-notebooks,commit,Adding Microscopic Observations Lab Folder
+2024-06-15,01:45:31,lab-notebooks,commit,Adding Enzyme Kinetics Lab Folder
+2024-06-15,01:45:17,lab-notebooks,commit,Relocating Spectrophotometry Lab PDF
+2024-06-15,01:41:20,lab-notebooks,commit,Adding AP Respiratory System Folder
+2024-06-15,01:41:08,lab-notebooks,commit,Adding AP Nervous System Folder
+2024-06-15,01:41:01,lab-notebooks,commit,Adding AP Lymphatic System Folder
+2024-06-15,01:40:54,lab-notebooks,commit,Adding AP Circulatory System Folder
+2024-06-15,01:40:46,lab-notebooks,commit,Adding AP Cardiovascular System Folder
+2024-06-15,01:40:36,lab-notebooks,commit,Adding AP Blood Folder
+2024-06-15,01:40:21,lab-notebooks,commit,Updating .gitignore
+2024-06-15,01:25:28,lab-notebooks,commit,Moving installation guide to main directory
+2024-06-15,01:23:02,lab-notebooks,commit,Renaming lab folder to cellular biology
+2024-06-15,01:20:02,lab-notebooks,commit,Placing all content into cellular biology folder
+2024-06-15,01:17:27,lab-notebooks,commit,Organizing Sketches into Folders
+2024-06-15,01:15:04,lab-notebooks,commit,Specimen I Sketch
+2024-06-15,01:14:59,lab-notebooks,commit,Specimen H Sketch
+2024-06-15,01:14:53,lab-notebooks,commit,Specimen G Sketch
+2024-06-15,01:14:48,lab-notebooks,commit,Specimen F Sketch
+2024-06-15,01:14:43,lab-notebooks,commit,Specimen E Sketch
+2024-06-15,01:14:38,lab-notebooks,commit,Specimen D Sketch
+2024-06-15,01:14:33,lab-notebooks,commit,Specimen C Sketch
+2024-06-15,01:14:28,lab-notebooks,commit,Specimen B Sketch
+2024-06-15,01:14:23,lab-notebooks,commit,Specimen A Sketch
+2024-06-15,01:14:11,lab-notebooks,commit,Updating .gitignore
+2024-06-15,00:56:51,lab-notebooks,commit,Specimen E Images
+2024-06-15,00:56:46,lab-notebooks,commit,Specimen D Images
+2024-06-15,00:56:38,lab-notebooks,commit,Specimen C Images
+2024-06-15,00:56:28,lab-notebooks,commit,Specimen B Images
+2024-06-15,00:56:19,lab-notebooks,commit,Specimen A Images
+2024-06-15,00:44:05,lab-notebooks,commit,Updating PDF
+2024-06-15,00:42:40,lab-notebooks,commit,Adding Final PDF to folder
+2024-06-15,00:41:13,lab-notebooks,commit,Import from Microscope Observations Assignment
+2024-06-14,23:42:23,lab-notebooks,commit,Updated Folder Name
+2024-06-13,19:55:15,lab-notebooks,commit,Adding Spectrophotometry Folder
+2024-06-13,19:54:58,lab-notebooks,commit,Adding Figures to Folder
+2024-06-13,19:54:44,lab-notebooks,commit,Adding Tables to Folder
+2024-06-13,18:21:24,lab-notebooks,commit,Adding Notebook for Spectrophotometry Lab
+2024-06-13,18:21:09,lab-notebooks,commit,Adding MD file for common installs
+2024-06-13,01:45:50,lab-notebooks,commit,Initial commit
+2015-07-29,08:08:46,localevents,commit,Updated linkage  Updated linkage
+2015-07-25,02:55:29,localevents,commit,Moved README.md to root level  Moved README.md from documentation folder to root level.
+2015-07-22,13:39:47,localevents,commit,Initial Commit for images.md  Created file images.md. Placed file in new folder img.
+2015-07-22,13:32:57,localevents,commit,Update to README.md  Renamed file to readme.md. Updated file to reflect current progress on website. Relocated the file to a new folder called documentation.
+2015-07-22,13:18:38,localevents,commit,Initial Commit for style.css  Created style.css for the About page. Created a folder css inside of the about folder.
+2015-07-22,13:17:35,localevents,commit,"Initial Commit for index.html  Created index.html for the About page, and added it to a folder called About"
+2015-07-22,13:16:15,localevents,commit,"Initial Commit for style.css  Created style.css file, and created css folder."
+2015-07-22,13:15:09,localevents,commit,Initial Commit for index.html  Created index.html
+2015-03-22,22:18:49,localevents,commit,Update README.md
+2015-03-22,22:18:34,localevents,commit,Update README.md
+2015-03-22,22:16:41,localevents,commit,Initial commit
+2016-06-27,08:36:37,maintenance,commit,Uploading Images  Including images used in the promotion of this design.
+2016-06-24,17:51:08,maintenance,commit,Update to main.css  Revisited mobile optimization.
+2016-06-24,17:50:54,maintenance,commit,Update to index.html  Revisited mobile optimization.
+2016-06-24,17:25:24,maintenance,commit,Initial Commit  Initial Commit for favicon.png
+2016-06-24,17:25:08,maintenance,commit,Initial Commit  Initial Commit for background.jpg
+2016-06-24,17:24:55,maintenance,commit,Initial Commit  Initial Commit for main.css
+2016-06-24,17:24:40,maintenance,commit,Initial Commit  Initial Commit for index.html
+2023-09-09,00:43:00,math-physics,commit,Further updates to Chemistry constants
+2023-09-08,23:56:34,math-physics,commit,Initial Commit for Chemistry constants
+2025-04-13,14:12:41,mclaren-physicians,commit,Updating .gitignore to exclude ui files.
+2025-04-13,10:54:51,mclaren-physicians,commit,Updates to main script.
+2025-04-13,10:54:45,mclaren-physicians,commit,Updating .gitignore to exclude output files.
+2025-04-13,10:54:25,mclaren-physicians,commit,Removing ids lsit
+2024-05-24,01:33:52,mclaren-physicians,commit,Main Script File
+2024-05-24,01:33:41,mclaren-physicians,commit,Initial Physican CSV file
+2024-05-24,01:32:52,mclaren-physicians,commit,Updating README.md File
+2024-05-24,01:32:04,mclaren-physicians,commit,Updating README.md File
+2024-05-23,18:26:00,mclaren-physicians,commit,Initial commit
+2024-06-17,17:27:07,Medicine,commit,Adding Lung Cancer Dataset
+2024-06-15,18:16:34,Medicine,commit,Update README.md
+2024-06-15,18:15:17,Medicine,commit,Update README.md
+2024-06-15,18:05:22,Medicine,commit,Adding Project: McLaren Physician Directory Scraper
+2024-06-15,17:49:27,Medicine,commit,Update README.md
+2024-06-15,17:49:13,Medicine,commit,Initial commit
+2024-06-17,17:17:01,medicine__lung-cancer-dataset,commit,JSON Dataset
+2024-06-17,17:16:49,medicine__lung-cancer-dataset,commit,Including .gitignore file
+2024-06-17,17:13:30,medicine__lung-cancer-dataset,commit,Updating README with Dataset Information
+2024-06-17,17:01:59,medicine__lung-cancer-dataset,commit,Initial commit
+2023-08-08,07:30:56,Neural-Network-from-Scratch,commit,Created devlog file; Update 20230808.001
+2023-08-08,07:27:58,Neural-Network-from-Scratch,commit,Initial updates to README.md file.
+2023-08-08,07:22:49,Neural-Network-from-Scratch,commit,Initial commit
+2024-06-15,17:49:03,Neuroscience,commit,Update README.md
+2024-06-15,17:48:52,Neuroscience,commit,Initial commit
+2017-01-16,13:07:57,old-enough-to-drive,commit,Update to age.js
+2016-03-01,18:04:16,old-enough-to-drive,commit,Updates to README.md
+2016-03-01,18:02:45,old-enough-to-drive,commit,Created age.js
+2016-03-01,18:02:14,old-enough-to-drive,commit,Create README.md
+2017-03-10,21:26:34,orangegrove,commit,Update to main.css
+2017-03-10,21:26:06,orangegrove,commit,Update to main.sass
+2017-03-10,21:25:30,orangegrove,commit,Update _colors.sass  Added red color
+2017-03-10,21:25:03,orangegrove,commit,Deleted names-faces.css  Deleted names-faces.css file
+2017-03-10,21:24:33,orangegrove,commit,Renamed names-faces.sass to _names-faces.sass
+2017-03-10,21:23:44,orangegrove,commit,Create _shoutouts.sass  Created a new sass file
+2017-03-10,21:22:41,orangegrove,commit,Update _templates.sass
+2017-03-10,21:22:06,orangegrove,commit,Create README.md
+2017-03-10,21:21:16,orangegrove,commit,Create 1jack-shout-outs.php template file
+2017-03-08,21:31:43,orangegrove,commit,"Update to Functions.php  Added new fields in the Advanced Custom Fields array, to deal with posts having the quote format."
+2017-03-08,21:30:45,orangegrove,commit,Added Screenshot  Added a theme Screenshot to be displayed with theme information on the wordpress dashboard
+2017-03-08,18:20:10,orangegrove,commit,Style updates  Various style updates for the site
+2017-03-08,18:20:00,orangegrove,commit,Created a names-faces_landing.php template  Created the template for the Names & Faces page
+2017-03-08,18:19:31,orangegrove,commit,Update to marketing-hr_landing.php  Adjusted code for calling the ACF 'blurb' field
+2017-03-08,18:19:04,orangegrove,commit,prepros-6.config
+2017-03-08,18:18:52,orangegrove,commit,Update to functions.php  Added new widget for the sidebar search on Names and Faces page; Added functionality for the Advanced Custom Fields plugin
+2017-03-08,18:18:04,orangegrove,commit,Added styles for names-faces.sass  Added custom styles for the names-faces_landing.php template
+2017-03-08,18:17:27,orangegrove,commit,Updates to main.js  Adjusted function responsible for removing width and height attributes from images within in .featured-images div on the #marketing-hr template
+2017-03-08,18:16:20,orangegrove,commit,Added Advanced Custom Fields Plugin  Added files assocaited with the Advacned Custom Fields plugin
+2017-03-07,21:59:41,orangegrove,commit,Update to marketing-hr_landing.php  Working to display excerpt on template
+2017-03-07,21:59:13,orangegrove,commit,Update to functions.php  Added theme dependancies telling admin Advanced Custom Fields needs to be installed and activated
+2017-03-07,20:52:47,orangegrove,commit,Update to styles  Updated styles
+2017-03-07,20:52:34,orangegrove,commit,Created our-offices_landing.php  Created a new page template for the Our Offices page; based on the marketing-hr_landing.php template
+2017-03-07,20:52:10,orangegrove,commit,Updated marketing-hr_landing.php template description  Upated the Template Description for marketing-hr_landing.php to more accurately describe what the template is used for
+2017-03-07,20:51:24,orangegrove,commit,Included Office Location Images  Included images to be used as Featured Images for office-specific pages and the Our Offices landing page
+2017-03-07,20:50:32,orangegrove,commit,Update to .gitignore file
+2017-03-07,20:17:26,orangegrove,commit,Update to main.js  Added a feature to remove width and height attributes from the .featured-image img (featured page image) to ensure better formatting
+2017-03-07,20:16:40,orangegrove,commit,Update to functions.php  Updated file formatting; Added function to help list child pages; Began work on function to limit number of characters in a blurb of text
+2017-03-07,20:15:57,orangegrove,commit,Added new responsive styles  Added min-height for .page-container (to ensure the page is always at least 100vh tall; worked with :nth-child for #marketing-hr to ensure pages broke correctly
+2017-03-07,20:15:01,orangegrove,commit,Update to _templates.sass  Updated the _templates.sass file for better formatting and clarity
+2017-03-07,20:14:30,orangegrove,commit,Included _marketing-hr.sass file  Added _marketing-hr.sass file for template-specific styles
+2017-03-07,20:13:55,orangegrove,commit,Changed page name  Changed marketing_landing.php to marketing-hr_landing.php since both the marketing and hr pages using this template now.
+2017-03-07,20:13:03,orangegrove,commit,Update to _colors.sass  Included new color $mediumgrey: #DDDDDD
+2017-03-07,20:12:38,orangegrove,commit,Style updates to main.sass and main.css  Style updates
+2017-03-07,20:12:25,orangegrove,commit,ID added to casestudies_landing.php  Added the ID case-studies-landing to the casestudies_landing.php tempate
+2017-03-07,20:12:06,orangegrove,commit,ID added to casestudies_individual.php  Added the ID case-studies-individual to the casestudies_individual.php tempate
+2017-03-07,20:10:20,orangegrove,commit,Featured Images
+2017-03-07,20:10:10,orangegrove,commit,prepros-6.config
+2017-03-07,20:09:46,orangegrove,commit,Included new Featured Images  Include 7 new featured images to test on site.
+2017-03-06,22:00:42,orangegrove,commit,Update to functions.php  Formatting changes
+2017-03-06,21:55:27,orangegrove,commit,Updates to styles  Updating styles
+2017-03-06,21:55:19,orangegrove,commit,Update to _colors.sass  Included new color: dark grey
+2017-03-06,21:55:00,orangegrove,commit,Update to _breadcrumbs.sass  Update to styles for breadcrumbs
+2017-03-06,21:54:38,orangegrove,commit,Creation of marketing_landing.php  Created template for the Marketing landing page.
+2017-03-06,21:54:20,orangegrove,commit,Update to casestudies_landing.php
+2017-03-06,21:08:52,orangegrove,commit,Update to casestudies_individual.php  Inclusion of breadcrumbs functionality on page.
+2017-03-06,21:08:29,orangegrove,commit,Updates to main.css  Stlying updates
+2017-03-06,21:08:21,orangegrove,commit,Updates to main.sass  Style updates
+2017-03-06,21:08:12,orangegrove,commit,Created _breadcrumbs.sass  Included styling for new breadcrumb feature
+2017-03-06,21:07:48,orangegrove,commit,Updated functions.php  Added function to include breadcrumbs into site.
+2017-03-06,21:07:28,orangegrove,commit,Update to prepros-6 config file
+2017-03-06,20:45:44,orangegrove,commit,Creation of casestudies_individual.php  Created page template for Individual Case Studies pages.
+2017-03-06,20:45:21,orangegrove,commit,Creation of casestudies_landing.php  Created a page template for the Case Studies Landing Page
+2017-03-06,20:45:00,orangegrove,commit,Update to main.css  Various updates processed from sass
+2017-03-06,20:44:48,orangegrove,commit,Update to main.sass  Removed placeholder styles for .content-wrapper.container
+2017-03-06,20:44:22,orangegrove,commit,Creation of .gitignore file  Added .config files to .gitignore list
+2017-03-06,20:43:52,orangegrove,commit,Update to _footer.sass  Added margin-top to footer to give desired look
+2017-03-06,20:43:36,orangegrove,commit,Update to _header.sass  Added margin bottom from header to give desired look
+2017-03-06,20:43:18,orangegrove,commit,Creation of _templates.sass  General styles for page templates
+2017-03-06,20:43:02,orangegrove,commit,Update to header.php  Reworked how the Site Title will display in browser tab.
+2017-03-06,20:42:35,orangegrove,commit,Added Image acrobat.png  Added Image for PDF File Downloads
+2017-03-06,20:42:21,orangegrove,commit,Added Images ppt.png  Added image for PowerPoint File Downloads
+2017-03-06,20:42:02,orangegrove,commit,Update to main.js  Removed empty else
+2017-03-06,04:17:30,orangegrove,commit,Updates to _fonts.sass  Added sans-serif backup to fonts
+2017-03-06,04:17:14,orangegrove,commit,Update to functions.php  Adjusted breakpoints for bootstrap framework
+2017-03-06,04:16:05,orangegrove,commit,Update to main.js  Included function to allow footer links to be target=“_blank”
+2017-03-06,04:12:13,orangegrove,commit,Recreation of Orange Grove repo
+2018-10-04,01:52:28,payoff-estimator,commit,updated project files.
+2018-09-24,02:41:06,payoff-estimator,commit,updated program to add unique ids to all new rows.
+2018-09-24,01:55:12,payoff-estimator,commit,"added main project files - index.html, main.css, main.js"
+2018-05-01,03:11:35,potentialprojectlist,commit,Update list.md
+2018-04-29,03:13:15,potentialprojectlist,commit,Update list.md
+2018-04-25,04:41:45,potentialprojectlist,commit,Update list.md
+2018-04-24,03:55:54,potentialprojectlist,commit,Update list.md
+2018-04-22,03:39:32,potentialprojectlist,commit,Update list.md
+2018-04-21,02:48:04,potentialprojectlist,commit,Update list.md
+2018-04-20,02:53:47,potentialprojectlist,commit,Update list.md
+2018-04-19,03:18:05,potentialprojectlist,commit,Update list.md
+2018-04-18,02:11:32,potentialprojectlist,commit,Update list.md
+2018-04-17,01:35:59,potentialprojectlist,commit,Update list.md
+2018-04-16,02:42:12,potentialprojectlist,commit,Update list.md
+2018-04-15,03:38:06,potentialprojectlist,commit,Update list.md
+2018-04-14,02:30:25,potentialprojectlist,commit,Update list.md
+2018-04-13,03:07:04,potentialprojectlist,commit,Update list.md
+2018-04-12,02:06:03,potentialprojectlist,commit,Update list.md
+2018-04-12,02:05:31,potentialprojectlist,commit,Update list.md
+2018-04-11,03:01:41,potentialprojectlist,commit,Update list.md
+2018-04-10,03:02:55,potentialprojectlist,commit,Update list.md
+2018-04-09,03:14:44,potentialprojectlist,commit,Update list.md
+2018-04-08,03:12:40,potentialprojectlist,commit,Update list.md
+2018-04-07,03:27:58,potentialprojectlist,commit,Update list.md
+2018-04-06,02:43:17,potentialprojectlist,commit,Update list.md
+2018-04-05,03:30:41,potentialprojectlist,commit,Update list.md
+2018-04-03,03:32:15,potentialprojectlist,commit,Update list.md
+2018-04-01,03:16:46,potentialprojectlist,commit,Update list.md
+2018-03-22,02:59:07,potentialprojectlist,commit,Update list.md
+2018-03-17,03:52:36,potentialprojectlist,commit,Update list.md
+2018-03-15,02:03:33,potentialprojectlist,commit,Update list.md
+2018-03-14,03:26:54,potentialprojectlist,commit,Update README.md
+2018-03-13,02:54:58,potentialprojectlist,commit,Updated file
+2018-03-10,03:31:38,potentialprojectlist,commit,Updated list
+2018-03-08,03:02:00,potentialprojectlist,commit,Updated file and project list
+2018-03-03,04:51:50,potentialprojectlist,commit,updated file: updated project list
+2018-03-02,04:14:53,potentialprojectlist,commit,updated file: updated project list
+2018-03-01,03:41:48,potentialprojectlist,commit,updated file: updated project list
+2018-02-27,03:38:55,potentialprojectlist,commit,Updated file: updated project list
+2018-02-25,03:01:46,potentialprojectlist,commit,updated file: updated project list
+2018-02-24,03:24:11,potentialprojectlist,commit,updated file: updated project list
+2018-02-23,03:14:29,potentialprojectlist,commit,updated file: updated list file
+2018-02-22,02:53:13,potentialprojectlist,commit,updated file: updated README.md file
+2018-02-18,03:27:42,potentialprojectlist,commit,updated file: updated project list
+2018-02-17,03:18:32,potentialprojectlist,commit,updated file: updated project list
+2018-02-16,03:29:20,potentialprojectlist,commit,updated file: updated project list
+2018-02-08,01:59:04,potentialprojectlist,commit,updated file: updated project list
+2018-02-07,03:04:57,potentialprojectlist,commit,updated file: added potential projects to the list
+2018-02-04,03:14:27,potentialprojectlist,commit,updated file: added new project to list of applications
+2018-01-13,04:15:11,potentialprojectlist,commit,updated file: Added the Applications list to the main README.md file.
+2018-01-13,04:14:15,potentialprojectlist,commit,List Added: added a list of Applications I would like to develop.
+2018-01-12,23:39:18,potentialprojectlist,commit,updated files: corrected link formatting.
+2018-01-12,23:38:10,potentialprojectlist,commit,updated file: Updated the list of Websites I'd like to Redesign and Redevelop.
+2018-01-12,23:37:49,potentialprojectlist,commit,Added README.md file.
+2018-01-12,23:34:04,potentialprojectlist,commit,List Added: List of Websites I'd like to Redesign and Redevelop.
+2017-01-16,13:28:50,potus-tweets,commit,Update to files and file structure of POTUS-Tweets
+2017-01-16,13:22:34,potus-tweets,commit,Updates to POTUS Tweets
+2017-01-16,12:26:01,potus-tweets,commit,Update to readme.md
+2017-01-16,12:23:24,potus-tweets,commit,create readme.md
+2017-01-15,15:53:49,potus-tweets,commit,Update to tweets.js
+2017-01-15,15:25:05,potus-tweets,commit,commit for tweets.js
+2017-01-15,15:24:59,potus-tweets,commit,commit for main.css
+2017-01-15,15:24:52,potus-tweets,commit,commit for index.html
+2017-01-15,11:59:49,potus-tweets,commit,"Initial Commit POTUS.json  JSON File containing all tweets from President Barack Obama, through November 11, 2016"
+2017-01-16,12:09:50,potus-tweets,issue,"Date returning undefined, NaN"
+2021-06-10,03:19:09,professional-projects,commit,Update to UWM
+2021-06-10,03:17:04,professional-projects,commit,Update to UWM
+2021-06-10,03:14:36,professional-projects,commit,Update to UWM
+2021-06-09,00:14:42,professional-projects,commit,Adding New Projects
+2021-06-09,00:12:17,professional-projects,commit,Added a last updated message
+2021-06-09,00:11:49,professional-projects,commit,Added a last updated message
+2021-06-09,00:11:12,professional-projects,commit,Added a last updated message
+2021-06-09,00:10:54,professional-projects,commit,Added a last updated message
+2021-06-09,00:09:45,professional-projects,commit,Update to iwerk
+2021-06-09,00:08:41,professional-projects,commit,Update to Organic / Wells Fargo
+2021-06-08,23:47:03,professional-projects,commit,Update to iwerk
+2021-06-08,23:38:38,professional-projects,commit,Update to LyonsCG
+2021-06-08,23:37:41,professional-projects,commit,Updates to Technical Documentation
+2021-06-08,23:36:44,professional-projects,commit,Update to Fresh
+2021-06-08,23:35:05,professional-projects,commit,Update to Jonathan Adler
+2021-06-08,23:34:15,professional-projects,commit,Update to Hot Topic / Box Lunch
+2021-06-08,23:32:56,professional-projects,commit,Update to Tourneau
+2021-06-08,23:31:26,professional-projects,commit,Update to Henri Bendel
+2021-06-08,23:29:18,professional-projects,commit,Update to Mattress Firm
+2021-06-08,23:28:31,professional-projects,commit,Update to Guthy Renker / Meaningful Beauty
+2021-06-08,23:27:04,professional-projects,commit,Update to Dogeared
+2021-06-08,23:26:09,professional-projects,commit,Updated Freelance Consulting description
+2021-06-08,23:24:26,professional-projects,commit,Updates to Susan McGraw
+2021-06-08,23:21:08,professional-projects,commit,Updates to Lizzie Vance
+2021-06-08,23:20:11,professional-projects,commit,Updates to Digiwalls Media
+2021-03-10,16:31:01,professional-projects,commit,Update README.md
+2020-01-02,04:57:34,professional-projects,commit,Update README.md
+2019-12-12,23:02:57,professional-projects,commit,Updated the spelling of Jonathan Adler
+2019-10-30,04:21:24,professional-projects,commit,Updated to correct Client Connect link
+2019-10-30,04:20:06,professional-projects,commit,Updated to add Brand360 - Client Connect under UWM
+2019-08-29,20:52:32,professional-projects,commit,Update README.md
+2019-08-29,19:17:58,professional-projects,commit,Updated Professional Projects.
+2018-08-06,16:30:41,professional-projects,commit,updated links.
+2018-08-06,16:30:01,professional-projects,commit,updated link.
+2018-08-06,16:05:07,professional-projects,commit,updated formatting.
+2018-08-06,16:02:34,professional-projects,commit,updated links
+2018-08-06,15:57:43,professional-projects,commit,added horizontal rules between positions
+2018-08-06,15:54:11,professional-projects,commit,updated formatting for README.md file.
+2018-08-06,15:51:53,professional-projects,commit,udpated formatting for README.md file.
+2018-08-06,15:49:56,professional-projects,commit,udpated formatting for README.md file.
+2018-08-06,15:49:03,professional-projects,commit,updated formatting for README.md file.
+2018-08-06,15:39:47,professional-projects,commit,Updated README.md file with relevant projects and experience.
+2018-08-06,14:59:15,professional-projects,commit,Initial commit
+2022-08-03,21:17:11,reactjs-income-tax-calculator,commit,Initial commit
+2024-02-16,07:07:45,responsive-image-carousel,commit,Slide functionality
+2024-02-16,04:43:24,responsive-image-carousel,commit,Updating functionality
+2024-02-12,04:01:30,responsive-image-carousel,commit,Organization; New Copy
+2024-02-12,03:35:52,responsive-image-carousel,commit,New Background Images
+2024-02-12,03:21:59,responsive-image-carousel,commit,Commit from Fork
+2024-02-06,15:19:38,ring-clock,commit,Adding Link
+2018-01-31,03:01:49,ring-clock,commit,updated file: updated README.md file.
+2018-01-31,03:01:19,ring-clock,commit,new files: initial commits for javascript ring clock.
+2018-01-31,02:36:56,ring-clock,commit,Initial commit
+2024-02-12,03:13:38,slide-out-nav,commit,Adding background to li:hover
+2024-02-12,03:08:45,slide-out-nav,commit,Updating background
+2018-01-18,03:20:52,slide-out-nav,commit,deleted background image file.
+2018-01-18,03:20:04,slide-out-nav,commit,updated files: updated styling and formatting for the slide out navigation.
+2018-01-18,03:19:14,slide-out-nav,commit,updated file: added additional information to the README.md file.
+2018-01-16,02:25:51,slide-out-nav,commit,updated files: refactored how the sub-menus slide out; restyled; updated scripts.
+2018-01-15,05:13:52,slide-out-nav,commit,updated file: included commented headings for script sections.
+2018-01-15,04:43:16,slide-out-nav,commit,updated file: updated formatting for README.md file.
+2018-01-15,04:40:59,slide-out-nav,commit,updated files: updated README.md file to include project screenshot; added screenshot.png to img folder.
+2018-01-15,04:37:31,slide-out-nav,commit,feature: added main html file for this project.
+2018-01-15,04:37:13,slide-out-nav,commit,included files: added background image for this project.
+2018-01-15,04:36:54,slide-out-nav,commit,included files: added main scrip file for this project.
+2018-01-15,04:36:30,slide-out-nav,commit,included files: added main stylesheet for this project.
+2018-01-15,04:35:43,slide-out-nav,commit,updated file: updated formatting of README.md file.
+2018-01-15,02:36:21,slide-out-nav,commit,Initial commit
+2018-03-23,18:23:30,social-media-widget,commit,updated social media widget to inlude a better looking internal link.
+2018-03-23,18:13:39,social-media-widget,commit,"updated social media widget to show more information, and display better on page alone."
+2018-03-23,02:09:46,social-media-widget,commit,"uploaded v 1.00 of Social Media widget, index.html and style.css files."
+2024-06-15,17:48:16,Software,commit,Update README.md
+2024-06-15,17:47:53,Software,commit,Initial commit
+2024-08-03,23:42:38,Technology,commit,Update README.md
+2024-08-03,23:41:02,Technology,commit,Update README.md
+2024-08-03,22:45:37,Technology,commit,Update README.md
+2024-08-03,22:45:24,Technology,commit,Update README.md
+2024-08-03,22:42:00,Technology,commit,Update README.md
+2024-06-15,17:48:40,Technology,commit,Update README.md
+2024-06-15,17:48:29,Technology,commit,Initial commit
+2025-04-08,13:26:36,technology__games--tic-tac-toe,commit,Update README.md
+2024-08-03,23:39:23,technology__games--tic-tac-toe,commit,Update to README.md file
+2024-08-03,23:36:57,technology__games--tic-tac-toe,commit,Adding How to Play modal functionality.
+2024-08-03,23:36:46,technology__games--tic-tac-toe,commit,Style revisions specific to modal
+2024-08-03,23:36:26,technology__games--tic-tac-toe,commit,Adding How to Play button and modal.
+2024-08-03,23:07:52,technology__games--tic-tac-toe,commit,Update to README.md file
+2024-08-03,23:06:08,technology__games--tic-tac-toe,commit,Minor copy change
+2024-08-03,23:05:46,technology__games--tic-tac-toe,commit,Minor style update
+2024-08-03,23:04:18,technology__games--tic-tac-toe,commit,Adding score functionality
+2024-08-03,22:41:44,technology__games--tic-tac-toe,commit,Adding README.md file
+2024-08-03,22:37:32,technology__games--tic-tac-toe,commit,Committing basic functionality.
+2025-02-18,10:02:11,thejessicafelts,commit,Removing Header Image
+2025-01-17,21:46:20,thejessicafelts,commit,Updated Header Image
+2024-10-14,06:45:47,thejessicafelts,commit,Updating Biography
+2024-10-14,06:42:55,thejessicafelts,commit,New Image
+2024-08-21,02:20:55,thejessicafelts,commit,Update README.md
+2024-06-15,17:56:21,thejessicafelts,commit,Update README.md
+2024-06-15,17:46:08,thejessicafelts,commit,Adding banner image
+2024-06-15,02:08:53,thejessicafelts,commit,Update README.md
+2024-06-15,02:08:18,thejessicafelts,commit,Update README.md
+2024-06-15,01:59:10,thejessicafelts,commit,Update README.md
+2024-06-15,01:57:38,thejessicafelts,commit,Update README.md
+2023-08-04,05:54:35,thejessicafelts,commit,Update README.md  Adding Linkedin Link to Open to Work callout
+2023-08-04,05:52:22,thejessicafelts,commit,Update README.md  Updates to public github profile.
+2023-08-04,05:45:32,thejessicafelts,commit,Update README.md  Updates to public readme profile
+2023-08-04,05:06:56,thejessicafelts,commit,Update to public github profile.
+2023-08-04,04:57:08,thejessicafelts,commit,Updates to my public GitHub profile.
+2022-08-25,18:09:28,thejessicafelts,commit,Updating README
+2021-10-29,20:33:12,thejessicafelts,commit,Adding GitHub Stats to README
+2021-10-28,19:31:41,thejessicafelts,commit,Updates to README.md  Bio and Links
+2021-08-12,18:31:46,thejessicafelts,commit,Update README.md
+2021-08-12,18:31:15,thejessicafelts,commit,Update README.md
+2021-05-20,09:27:08,thejessicafelts,commit,Updated to Public Profile  Rewrote summary and added Salesforce Certification information.
+2021-03-10,16:28:05,thejessicafelts,commit,Update README.md
+2021-03-08,16:39:27,thejessicafelts,commit,Update README.md
+2021-03-08,16:39:16,thejessicafelts,commit,Updating profile.
+2021-03-04,16:57:17,thejessicafelts,commit,Adding $UWMC Market Watch Link.
+2021-02-16,14:38:58,thejessicafelts,commit,Updating Age  HAPPY BIRTHDAY TO ME!!
+2020-11-28,16:20:45,thejessicafelts,commit,Update README.md  Removing Taking a Break message.
+2020-11-06,18:08:49,thejessicafelts,commit,Updating employer url
+2020-11-03,18:12:08,thejessicafelts,commit,Adding new position
+2020-11-03,15:38:01,thejessicafelts,commit,Updating Hiatus Dates
+2020-10-06,20:01:09,thejessicafelts,commit,Updating README.md  Adding a hiatus notice.
+2020-09-27,03:16:02,thejessicafelts,commit,Updating Employment Information
+2020-09-15,02:02:33,thejessicafelts,commit,Updated Open Source Badge
+2020-09-15,01:58:00,thejessicafelts,commit,Added the Open Source Badge
+2020-09-13,06:58:54,thejessicafelts,commit,Updates to Hit Counter  Added in a new hit counter from @antonkomarev  https://github.com/antonkomarev/github-profile-views-counter
+2020-09-13,06:53:50,thejessicafelts,commit,Updating hit counter
+2020-09-13,06:51:47,thejessicafelts,commit,Updating Counter
+2020-09-13,06:49:45,thejessicafelts,commit,Updating Hit Counter  Adding new hit counter to the page.
+2020-07-05,04:24:32,thejessicafelts,commit,Update README.md  Corrected format for age.
+2020-07-04,04:31:50,thejessicafelts,commit,Update README.md  Added new line item.
+2020-07-03,20:03:48,thejessicafelts,commit,Updated README.md  Social Icons sizing and heading
+2020-07-03,20:01:17,thejessicafelts,commit,Updated READM.md  Including smaller social icons.
+2020-07-03,19:59:55,thejessicafelts,commit,Deleting image  Smaller version uploaded.
+2020-07-03,19:59:41,thejessicafelts,commit,Deleting image.  Smaller version uploaded.
+2020-07-03,19:59:23,thejessicafelts,commit,Deleting Image  Smaller version uploaded.
+2020-07-03,19:58:41,thejessicafelts,commit,Uploaded size-corrected social icons.
+2020-07-03,19:54:37,thejessicafelts,commit,Update README.md  Adding icons.
+2020-07-03,19:37:57,thejessicafelts,commit,"Uploaded Social Icons  LinkedIn, Instagram, Twitter"
+2020-07-02,21:34:54,thejessicafelts,commit,Updated README.md  Added Social Links
+2020-07-02,03:18:07,thejessicafelts,commit,Update README.md  Remove blockquote.
+2020-07-02,03:16:28,thejessicafelts,commit,Update README.md  Removing profile items from center-aligned div.
+2020-07-02,03:15:35,thejessicafelts,commit,Updated README.md  Fancy emojis and a banner and a view counter
+2020-07-02,02:06:52,thejessicafelts,commit,Adding Banner for profile
+2020-07-02,02:04:28,thejessicafelts,commit,Updating README.md  Let's try this again - reverting mistakes.
+2020-07-02,02:04:02,thejessicafelts,commit,Update README.md  Ooops. Reverting mistakes.
+2020-07-02,02:03:35,thejessicafelts,commit,Updated README.md
+2020-07-01,03:26:54,thejessicafelts,commit,Initial commit
+2022-08-13,09:35:44,thejessicafelts-2022-redesign,commit,Testing Updates to Index
+2022-04-30,09:18:36,thejessicafelts-2022-redesign,commit,Updates to functions.php
+2022-04-20,09:44:34,thejessicafelts-2022-redesign,commit,Updating gitignore file
+2022-04-20,09:43:30,thejessicafelts-2022-redesign,commit,Added Compatibility file
+2022-04-20,09:43:22,thejessicafelts-2022-redesign,commit,Addecd Functions file
+2022-04-20,09:43:05,thejessicafelts-2022-redesign,commit,Added Index file
+2022-04-20,09:42:58,thejessicafelts-2022-redesign,commit,Added Header file
+2022-04-20,09:42:50,thejessicafelts-2022-redesign,commit,Added Footer file
+2022-04-20,09:42:39,thejessicafelts-2022-redesign,commit,Updated theme stylesheet
+2022-04-20,09:42:31,thejessicafelts-2022-redesign,commit,Updated JSON packages
+2022-04-20,09:42:20,thejessicafelts-2022-redesign,commit,Added Gulpfile
+2021-10-29,16:19:52,thejessicafelts-2022-redesign,commit,Updating Headlines
+2021-10-29,16:04:48,thejessicafelts-2022-redesign,commit,Adjusting README styling
+2021-10-29,16:01:30,thejessicafelts-2022-redesign,commit,Adding Progress Bar
+2021-10-29,16:01:16,thejessicafelts-2022-redesign,commit,Adding Progress item
+2021-10-29,16:01:01,thejessicafelts-2022-redesign,commit,"Updating README.md with Progress, TODO, Goals"
+2021-09-10,15:51:44,thejessicafelts-2022-redesign,commit,Initial commit
+2017-10-30,03:03:07,thejessicafelts-plugin_old,commit,Merge pull request #1 from thejessicafelts/development  Development
+2017-10-28,18:05:34,thejessicafelts-plugin_old,commit,"new file: Inital Commit for plugin.php file, primary plugin file."
+2017-10-28,18:04:53,thejessicafelts-plugin_old,commit,"update: Updated README.md file, to include more information."
+2017-10-28,17:59:15,thejessicafelts-plugin_old,commit,Initial commit
+2017-10-28,18:09:48,thejessicafelts-plugin_old,pull_request,Development
+2017-10-30,03:07:46,thejessicafelts-theme_old,commit,udpate: corrected file formatting.
+2017-10-30,03:04:17,thejessicafelts-theme_old,commit,Merge pull request #1 from thejessicafelts/development  Development
+2017-10-30,03:01:56,thejessicafelts-theme_old,commit,new files: added files for Facebook Pixels and Google Analytics - add your own code to these.
+2017-10-30,02:59:31,thejessicafelts-theme_old,commit,update: Adding SEO/Analytics codes to the site.
+2017-10-28,18:17:46,thejessicafelts-theme_old,commit,"new files: Added Vendor Files for this theme - bootstrap, fontawesome, slick slider."
+2017-10-28,18:17:13,thejessicafelts-theme_old,commit,new files: Added various style and script files for this theme.
+2017-10-28,18:16:46,thejessicafelts-theme_old,commit,new files: Added various Template Partials for this theme.
+2017-10-28,18:16:18,thejessicafelts-theme_old,commit,"new file: Initial Commit for Functions file, containing relevant instructions for this theme's functionality."
+2017-10-28,18:15:40,thejessicafelts-theme_old,commit,new file: Added Theme Image for WP Admin use.
+2017-10-28,18:15:16,thejessicafelts-theme_old,commit,new file: Initial Commit for the Front Page template file.
+2017-10-28,18:14:54,thejessicafelts-theme_old,commit,new file: Initial Commit for Footer file.
+2017-10-28,18:14:41,thejessicafelts-theme_old,commit,new file: Initial Commit for Header file.
+2017-10-28,18:14:18,thejessicafelts-theme_old,commit,new file: Initial Commit for theme Style file.
+2017-10-28,18:13:47,thejessicafelts-theme_old,commit,new file: Initial Commit for index.php file.
+2017-10-28,17:53:21,thejessicafelts-theme_old,commit,Initial commit
+2017-10-30,03:04:06,thejessicafelts-theme_old,pull_request,Development
+2015-07-29,10:21:21,thejessicafelts.com,commit,Nested folders  Initial Commit
+2015-07-29,10:11:44,thejessicafelts.com,commit,Initial Commit for style.css  Initial commit.
+2015-07-29,10:11:08,thejessicafelts.com,commit,Initial Commit for index.html  Initial commit
+2015-07-22,03:38:50,thejessicafelts.com,commit,"Initial Commit for images.md  Created a text file for images, where links to currently used images are kept.  Also created the folder img, and placed images.md inside of it."
+2015-07-22,03:29:20,thejessicafelts.com,commit,"Initial Commit for unavailable.css  Committed unavailable.css, and added it to the css folder."
+2015-07-22,03:26:57,thejessicafelts.com,commit,Update to style.css  Updated css file to reflect the code currently on my website. Also added style.css to a folder called css.
+2015-07-22,03:25:12,thejessicafelts.com,commit,Update to index.html  Updated to reflect the current code on my website.
+2015-03-28,20:21:17,thejessicafelts.com,commit,Update to index.html  Corrected broken links
+2015-03-28,20:16:59,thejessicafelts.com,commit,Update to style.css  Update to style.css - addition of styles for Projects section.
+2015-03-28,20:16:08,thejessicafelts.com,commit,Update to index.html  Addition of projects in Projects section.
+2015-03-28,09:33:54,thejessicafelts.com,commit,Update to index.html  Corrected GitHub profile link on Projects section (spelling error).
+2015-03-28,09:05:17,thejessicafelts.com,commit,Update to style.css  Revised projects section to include new headings.  Increased padding in a few areas.
+2015-03-28,09:04:31,thejessicafelts.com,commit,Update to index.html  Revised projects redirect section.
+2015-03-28,06:42:59,thejessicafelts.com,commit,Update to index.html  Fixed broken footer link.
+2015-03-28,06:39:43,thejessicafelts.com,commit,Update to style.css  Added style section for #projects.
+2015-03-28,06:39:06,thejessicafelts.com,commit,Update to Index.html  Added redirect section for projects.
+2015-03-28,06:29:01,thejessicafelts.com,commit,Update to README.md  Updated the list of CSS fonts that are used on www.thejessicafelts.com/
+2015-03-28,06:25:20,thejessicafelts.com,commit,Created style.css
+2015-03-28,06:24:28,thejessicafelts.com,commit,Created index.html
+2015-03-18,15:40:03,thejessicafelts.com,commit,Update README.md
+2015-03-18,15:39:38,thejessicafelts.com,commit,20150318_ReadMe_Updates  › Initial README Page Update.  › Addition of Google Fonts links.
+2015-03-18,15:36:37,thejessicafelts.com,commit,03182015
+2015-03-18,15:28:22,thejessicafelts.com,commit,Initial commit
+2019-01-04,02:44:44,thejessicafelts.github.io,commit,Updated Social Media Widget project files.
+2019-01-04,02:44:30,thejessicafelts.github.io,commit,"Updated Assets: CSS and JavaScript to reflect updates to old projects, and additions of new projects."
+2019-01-03,15:33:38,thejessicafelts.github.io,commit,Updating Projects
+2018-03-31,03:02:11,thejessicafelts.github.io,commit,updated README.md file.
+2018-03-29,03:20:49,thejessicafelts.github.io,commit,added a project README file.
+2018-03-27,17:26:29,thejessicafelts.github.io,commit,initial commit of site with one featured project.
+2020-09-27,03:23:23,thejessicafelts.github.io,issue,Card View | Button Alignment differs between Cards
+2024-11-29,00:38:05,thejessicafelts.github.io-header,commit,Sample Header
+2018-01-11,03:17:33,thejessicafelts.github.io_redesign,commit,"updated files: moved original index.html file to new file project-list.html; updated index.html to display a filtering system, and card-style project layout; updated styling, added javascript to complete the filtering."
+2018-01-09,02:47:59,thejessicafelts.github.io_redesign,commit,"new files: added index file, and main css and js files to project."
+2018-03-27,17:17:12,thejessicafelts_github-pages,commit,updated project specific image.
+2018-03-27,17:16:56,thejessicafelts_github-pages,commit,updated javascript file for the site.
+2018-03-27,17:16:42,thejessicafelts_github-pages,commit,updated project styles.
+2018-03-27,17:16:27,thejessicafelts_github-pages,commit,updated the location of the individual projects folders.
+2018-03-27,17:16:07,thejessicafelts_github-pages,commit,"updated index file, to be the new projects homepage."
+2018-03-27,17:15:49,thejessicafelts_github-pages,commit,deleted the projects folder; updating file structure for site.
+2018-03-27,02:15:31,thejessicafelts_github-pages,commit,updated the projects file.
+2018-03-27,02:15:22,thejessicafelts_github-pages,commit,added testing images to the repo.
+2018-03-27,02:15:05,thejessicafelts_github-pages,commit,updated styling.
+2018-03-25,14:56:19,thejessicafelts_github-pages,commit,deleted old compiled files from this project.
+2018-03-24,23:27:06,thejessicafelts_github-pages,commit,added index script and style files to site.
+2018-03-24,23:19:28,thejessicafelts_github-pages,commit,"updated .gitignore file to no longer include the dist folder, which will be used for the gh-pages branch."
+2018-03-24,23:18:38,thejessicafelts_github-pages,commit,new file: added index file for this project.
+2018-03-24,23:16:44,thejessicafelts_github-pages,commit,updated project files for this project.
+2018-03-23,18:25:16,thejessicafelts_github-pages,commit,Initial commit
+2018-10-19,01:54:20,thejessicafelts_theme,commit,updated section name from 'Attention Grabber' to 'Attn Grabber' to better fit the space available.
+2018-10-19,01:53:03,thejessicafelts_theme,commit,updated partial name from 'one-billion-sites' to 'attention-grabber' to make it more flexible for future use.
+2018-10-19,01:50:58,thejessicafelts_theme,commit,"updated the one-billion-sites.php partial, and updated the options page to include a new set of fields for this section."
+2018-02-19,00:03:44,thejessicafelts_theme,commit,updated file: updated list of requirements for project.
+2018-02-15,02:17:04,thejessicafelts_theme,commit,updated file: updated README.md file will additional features for this site.
+2018-02-14,02:19:21,thejessicafelts_theme,commit,updated file: updated sections on README.md file.
+2018-02-13,04:34:28,thejessicafelts_theme,commit,new file: created README.md file.
+2018-01-29,02:43:15,thejessicafelts_theme,commit,updated file: began work on single post page for 100 Day of Code log posts.
+2018-01-26,02:32:04,thejessicafelts_theme,commit,"updated and new files: updated all styling, and added new styles for the theme."
+2018-01-26,02:31:43,thejessicafelts_theme,commit,updated file: updated options page to include mision statement section.
+2018-01-26,02:31:16,thejessicafelts_theme,commit,"new files: add global template parts for header, footer, top bar and page headers."
+2018-01-26,02:30:34,thejessicafelts_theme,commit,new file: added front-page template.
+2018-01-26,02:30:17,thejessicafelts_theme,commit,"new files: added archive and single post templates for the insights custom post type, which will be the primary blog."
+2018-01-26,02:29:45,thejessicafelts_theme,commit,updated files: updated header and homepage template parts.
+2018-01-26,02:29:14,thejessicafelts_theme,commit,updated file: updated theme footer.
+2018-01-26,02:28:58,thejessicafelts_theme,commit,new file: added template for 404 page.
+2018-01-26,02:28:39,thejessicafelts_theme,commit,"updated files: updated challenge logs, layout and styling, as well as custom post type custom feilds."
+2018-01-24,20:20:43,thejessicafelts_theme,commit,updated file: removed 'required' from the project gallery custom field.
+2018-01-23,13:44:59,thejessicafelts_theme,commit,updated file: updated single post format.
+2018-01-23,13:44:30,thejessicafelts_theme,commit,updated files: updated styling throughout site.
+2018-01-23,13:44:02,thejessicafelts_theme,commit,new file: added posts-header.php template part for single posts.
+2018-01-23,13:43:24,thejessicafelts_theme,commit,updated file: corrected spacing for posts meta.
+2018-01-23,13:24:39,thejessicafelts_theme,commit,updated file: updated the leadin global field group.
+2018-01-23,13:16:33,thejessicafelts_theme,commit,new file: added comments template for theme.
+2018-01-23,13:16:14,thejessicafelts_theme,commit,updated file: added a require for the global-fields.php file.
+2018-01-23,13:15:52,thejessicafelts_theme,commit,new file: added a global fields php file for custom fields on posts and pages.
+2018-01-23,02:10:05,thejessicafelts_theme,commit,updated file: adjusted breakpoints for index.php post grid.
+2018-01-23,02:05:00,thejessicafelts_theme,commit,updated files: updated theme styling.
+2018-01-23,02:04:33,thejessicafelts_theme,commit,updated file: added site url to site title.
+2018-01-23,02:03:57,thejessicafelts_theme,commit,new file: added single.php template for single posts.
+2018-01-22,22:34:17,thejessicafelts_theme,commit,updated file: added post pagination.
+2018-01-22,01:00:58,thejessicafelts_theme,commit,new file: added author archive page.
+2018-01-22,00:50:23,thejessicafelts_theme,commit,new files: added archive- and single- post templates for the 'onehundreddaysofcode' custom post type.
+2018-01-21,16:15:47,thejessicafelts_theme,commit,new folder: added partials folder to hold all partial scss files for inclusion in main.scss; added _header.scss partial for global header styles.
+2018-01-21,16:15:07,thejessicafelts_theme,commit,new file: added _variables.scss file to hold all global variables for this theme.
+2018-01-21,16:14:38,thejessicafelts_theme,commit,new file: added main.scss file for sass imports.
+2018-01-21,16:14:15,thejessicafelts_theme,commit,udpated file: changed 'read more' function for excerpt and content limitations.
+2018-01-21,15:50:36,thejessicafelts_theme,commit,updated filed: added ability to limit excerpt length.
+2018-01-21,02:04:31,thejessicafelts_theme,commit,updated file: added global footer to the footer.php file; added copyright information to the global footer.
+2018-01-21,02:04:09,thejessicafelts_theme,commit,updated file: added global header to the header.php file. Included site title in global header.
+2018-01-21,01:51:01,thejessicafelts_theme,commit,"updated file: added error handling, and an include to the new options-pages.php file."
+2018-01-21,01:50:31,thejessicafelts_theme,commit,"updated file: updated custom post type for #100daysofcode log posts, removed all reference to options page, which were put into a new file."
+2018-01-21,01:49:54,thejessicafelts_theme,commit,"new file: added seperate file for options pages, and included it into the function.php file."
+2018-01-19,16:15:49,thejessicafelts_theme,commit,updated file: added new social media platforms for the Social options page.
+2018-01-19,03:01:40,thejessicafelts_theme,commit,updated file: added Social options page.
+2018-01-19,02:39:17,thejessicafelts_theme,commit,updated file: updated header file for theme.
+2018-01-19,02:28:50,thejessicafelts_theme,commit,updated files: added custom-post-types.php and added it as an include in functions.php.
+2018-01-19,02:25:56,thejessicafelts_theme,commit,updated file: added script and style file paths for theme.
+2018-01-19,02:25:36,thejessicafelts_theme,commit,added files: added vendor files and assets.
+2018-01-09,15:23:45,thejessicafelts_theme,commit,initial file commit for all required files for theme.
+2015-08-03,06:42:36,thejessicafelts__theme,commit,Update to style.css
+2015-08-03,06:42:29,thejessicafelts__theme,commit,Update to header.php
+2015-08-03,06:42:21,thejessicafelts__theme,commit,Update to footer.php
+2015-08-02,05:50:49,thejessicafelts__theme,commit,Updating footer.php and sass\style.scss
+2015-08-02,05:49:56,thejessicafelts__theme,commit,Update style.css
+2015-08-02,03:03:21,thejessicafelts__theme,commit,Updated README.md
+2015-08-02,02:59:37,thejessicafelts__theme,commit,template-parts\content.php
+2015-08-02,02:59:30,thejessicafelts__theme,commit,template-parts\content-single.php
+2015-08-02,02:59:18,thejessicafelts__theme,commit,template-parts\content-search.php
+2015-08-02,02:59:07,thejessicafelts__theme,commit,template-parts\content-page.php
+2015-08-02,02:58:58,thejessicafelts__theme,commit,template-parts\content-none.php
+2015-08-02,02:58:44,thejessicafelts__theme,commit,style.css
+2015-08-02,02:58:38,thejessicafelts__theme,commit,single.php
+2015-08-02,02:58:32,thejessicafelts__theme,commit,sidebar.php
+2015-08-02,02:58:25,thejessicafelts__theme,commit,search.php
+2015-08-02,02:58:19,thejessicafelts__theme,commit,screenshot.png
+2015-08-02,02:58:12,thejessicafelts__theme,commit,sass\_normalize.scss
+2015-08-02,02:58:02,thejessicafelts__theme,commit,sass\variables-site\_variable-sites.scss
+2015-08-02,02:57:41,thejessicafelts__theme,commit,sass\variables-site\_typography.scss
+2015-08-02,02:57:33,thejessicafelts__theme,commit,sass\variables-site\_structures.scss
+2015-08-02,02:57:09,thejessicafelts__theme,commit,sass\variables-site\_colors.scss
+2015-08-02,02:56:45,thejessicafelts__theme,commit,sass\typography\_typography.scss
+2015-08-02,02:56:37,thejessicafelts__theme,commit,sass\typography\_headings.scss
+2015-08-02,02:56:31,thejessicafelts__theme,commit,sass\typography\_copy.scss
+2015-08-02,02:56:13,thejessicafelts__theme,commit,sass\style.scss
+2015-08-02,02:56:04,thejessicafelts__theme,commit,Commit sass\site\_site.scss
+2015-08-02,02:55:50,thejessicafelts__theme,commit,Commit sass\site\secondary\_widgets.scss
+2015-08-02,02:52:13,thejessicafelts__theme,commit,Commit sass\primary\_posts-and-pages.scss
+2015-08-02,02:51:59,thejessicafelts__theme,commit,Commit sass\primary\_comments.scss
+2015-08-02,02:51:34,thejessicafelts__theme,commit,Commit sass\primary\_asides.scss
+2015-08-02,02:50:43,thejessicafelts__theme,commit,Commit sass\navigation\_navigation.scss
+2015-08-02,02:50:31,thejessicafelts__theme,commit,Commit sass\navigation\_menus.scss
+2015-08-02,02:50:22,thejessicafelts__theme,commit,Commit sass\navigation\_links.scss
+2015-08-02,02:50:03,thejessicafelts__theme,commit,Commit sass\modules\_infinite-scroll.scss
+2015-08-02,02:49:51,thejessicafelts__theme,commit,Commit sass\modules\_clearings.scss
+2015-08-02,02:49:39,thejessicafelts__theme,commit,Commit sass\modules\_alignments.scss
+2015-08-02,02:49:31,thejessicafelts__theme,commit,Commit sass\modules\_accessibility.scss
+2015-08-02,02:49:13,thejessicafelts__theme,commit,Commit sass\mixins\_mixins-master.scss
+2015-08-02,02:48:49,thejessicafelts__theme,commit,Commit sass\media\_media.scs
+2015-08-02,02:48:43,thejessicafelts__theme,commit,Commit sass\media\_galleries.scss
+2015-08-02,02:48:34,thejessicafelts__theme,commit,Commit sass\media\_captions.scss
+2015-08-02,02:48:15,thejessicafelts__theme,commit,Commit sass\layout\_content-sidebar.scss
+2015-08-02,02:48:01,thejessicafelts__theme,commit,Commit sass\layout\_content-sidebar.scss
+2015-08-02,02:47:15,thejessicafelts__theme,commit,Commit sass\forms\_forms.scss
+2015-08-02,02:47:08,thejessicafelts__theme,commit,Commit sass\forms\_fields.scss
+2015-08-02,02:46:57,thejessicafelts__theme,commit,Commit sass\forms\_buttons
+2015-08-02,02:46:20,thejessicafelts__theme,commit,Commit sass/elements/_tables.scss
+2015-08-02,02:46:03,thejessicafelts__theme,commit,Commit sass/elements/_lists.scss
+2015-08-02,02:45:32,thejessicafelts__theme,commit,Commit sass/elements/_elements.scss
+2015-08-02,02:45:11,thejessicafelts__theme,commit,Commit rtl.css
+2015-08-02,02:45:04,thejessicafelts__theme,commit,Commit readme.txt
+2015-08-02,02:44:57,thejessicafelts__theme,commit,Commit README.md
+2015-08-02,02:44:49,thejessicafelts__theme,commit,Commit page.php
+2015-08-02,02:44:43,thejessicafelts__theme,commit,Commit layouts/sidebar-content.css
+2015-08-02,02:44:32,thejessicafelts__theme,commit,Commit layouts/content-sidebar.css
+2015-08-02,02:44:16,thejessicafelts__theme,commit,Commit languages/thejessicafelts.pot
+2015-08-02,02:43:54,thejessicafelts__theme,commit,Commit languages/readme.txt
+2015-08-02,02:43:41,thejessicafelts__theme,commit,Commit js/skip-link-focus-fix.js
+2015-08-02,02:43:18,thejessicafelts__theme,commit,Commit js/navigation.js
+2015-08-02,02:43:08,thejessicafelts__theme,commit,Commit js/customizer.js
+2015-08-02,02:43:00,thejessicafelts__theme,commit,Commit index.php
+2015-08-02,02:42:52,thejessicafelts__theme,commit,Commit inc/template-tags.php
+2015-08-02,02:42:40,thejessicafelts__theme,commit,Commit inc/jetpack.php
+2015-08-02,02:42:30,thejessicafelts__theme,commit,Commit inc/extras.php
+2015-08-02,02:42:16,thejessicafelts__theme,commit,Commit inc/customizer.php
+2015-08-02,02:42:01,thejessicafelts__theme,commit,Commit inc/custom-header.php
+2015-08-02,02:41:47,thejessicafelts__theme,commit,Commit header.php
+2015-08-02,02:41:38,thejessicafelts__theme,commit,Commit functions.php
+2015-08-02,02:40:58,thejessicafelts__theme,commit,Commit footer.php
+2015-08-02,02:40:44,thejessicafelts__theme,commit,Commit comments.php
+2015-08-02,02:40:28,thejessicafelts__theme,commit,Commit archive.php
+2015-08-02,02:40:17,thejessicafelts__theme,commit,Commit 404.php
+2015-08-02,02:40:03,thejessicafelts__theme,commit,deleted .gitattributes
+2015-08-02,02:10:07,thejessicafelts__theme,commit,:boom::camel: Added .gitattributes
+2020-02-22,06:08:29,theme_thejessicafelts-2020,commit,Updated Custom Post Types file name
+2020-02-22,06:07:56,theme_thejessicafelts-2020,commit,Updated Employers Custom Post Type file names
+2020-02-22,06:07:22,theme_thejessicafelts-2020,commit,Added page templates for Feedback custom post type
+2020-02-20,03:42:28,theme_thejessicafelts-2020,commit,Added page template for the Hobby custom post type
+2020-02-19,20:46:11,theme_thejessicafelts-2020,commit,Added Latest Posts block
+2020-02-19,20:46:04,theme_thejessicafelts-2020,commit,Added Legal Notices block
+2020-02-19,20:45:56,theme_thejessicafelts-2020,commit,Added Mailing List block
+2020-02-19,20:45:44,theme_thejessicafelts-2020,commit,Added Mission Statement block
+2020-02-19,20:45:20,theme_thejessicafelts-2020,commit,Added file for Custom Post types
+2020-02-19,20:45:10,theme_thejessicafelts-2020,commit,Added Admin Functions page
+2020-02-19,20:44:50,theme_thejessicafelts-2020,commit,Added Primary Navigation block
+2020-02-19,20:44:41,theme_thejessicafelts-2020,commit,Added Secondary Navigation block
+2020-02-19,20:44:33,theme_thejessicafelts-2020,commit,Added Social Navigation block
+2020-02-19,20:44:25,theme_thejessicafelts-2020,commit,Added Projects block
+2020-02-19,20:44:19,theme_thejessicafelts-2020,commit,Added Related Posts block
+2020-02-19,20:44:12,theme_thejessicafelts-2020,commit,Added skills block
+2020-02-19,20:44:02,theme_thejessicafelts-2020,commit,Added Top Bar block
+2020-02-19,20:43:52,theme_thejessicafelts-2020,commit,Added Hero Slider block
+2020-02-19,20:43:44,theme_thejessicafelts-2020,commit,Added Employment CTA block
+2020-02-19,20:43:34,theme_thejessicafelts-2020,commit,Added Employer slider block
+2020-02-19,20:43:25,theme_thejessicafelts-2020,commit,Added CTA Bar block
+2020-02-19,20:43:10,theme_thejessicafelts-2020,commit,Updated Index page
+2020-02-19,20:43:01,theme_thejessicafelts-2020,commit,Updated Header
+2020-02-19,20:42:53,theme_thejessicafelts-2020,commit,Updated Front Page
+2020-02-19,20:42:26,theme_thejessicafelts-2020,commit,Added page template for schedule calls page
+2020-02-19,20:42:13,theme_thejessicafelts-2020,commit,Added page template for taxonomies page
+2020-02-19,20:42:05,theme_thejessicafelts-2020,commit,Added page template for generic single page
+2020-02-19,20:41:58,theme_thejessicafelts-2020,commit,Added page template for tags page
+2020-02-19,20:41:53,theme_thejessicafelts-2020,commit,Added page template for privacy policy page
+2020-02-19,20:41:39,theme_thejessicafelts-2020,commit,Added page template for contact page
+2020-02-19,20:41:29,theme_thejessicafelts-2020,commit,Added page template for resume page
+2020-02-19,20:41:22,theme_thejessicafelts-2020,commit,Added page template for generic page
+2020-02-19,20:41:12,theme_thejessicafelts-2020,commit,Added page template for connection page
+2020-02-19,20:41:03,theme_thejessicafelts-2020,commit,Added page template for chat page
+2020-02-19,20:40:53,theme_thejessicafelts-2020,commit,Added page template for bio page
+2020-02-19,20:40:39,theme_thejessicafelts-2020,commit,Added page template for comments page
+2020-02-19,20:40:33,theme_thejessicafelts-2020,commit,Added page template for category page
+2020-02-19,20:40:27,theme_thejessicafelts-2020,commit,Added page template for attachments page
+2020-02-19,20:40:14,theme_thejessicafelts-2020,commit,Added page templates for skills custom post type
+2020-02-19,20:40:04,theme_thejessicafelts-2020,commit,Added page templates for pubs. custom post type
+2020-02-19,20:39:50,theme_thejessicafelts-2020,commit,Added page templates for projects custom post type
+2020-02-19,20:39:28,theme_thejessicafelts-2020,commit,Added page templates for employer custom post type
+2020-02-19,20:39:16,theme_thejessicafelts-2020,commit,Added page templates for edu. custom post type
+2020-02-19,20:39:01,theme_thejessicafelts-2020,commit,Added page templates for couses custom post type
+2020-02-19,20:38:38,theme_thejessicafelts-2020,commit,Added templates for Awards custom post type
+2020-02-19,20:38:07,theme_thejessicafelts-2020,commit,Added template for search page and search form
+2020-02-19,20:37:48,theme_thejessicafelts-2020,commit,Added template for image page
+2020-02-19,20:37:37,theme_thejessicafelts-2020,commit,Added template for date page
+2020-02-19,20:37:31,theme_thejessicafelts-2020,commit,Added template for author page
+2020-02-19,20:37:09,theme_thejessicafelts-2020,commit,Created page for archive template
+2020-02-19,20:36:58,theme_thejessicafelts-2020,commit,Created file for 404 page template.
+2019-10-21,03:18:07,theme_thejessicafelts-2020,commit,Adding Custom Menus to Theme
+2019-10-02,03:11:23,theme_thejessicafelts-2020,commit,Added post duplication (need to clean this up)
+2019-10-02,02:26:24,theme_thejessicafelts-2020,commit,Adding sidebar
+2019-10-02,02:23:26,theme_thejessicafelts-2020,commit,Adding functions to header; updating global header
+2019-10-01,05:06:07,theme_thejessicafelts-2020,commit,Including sidebar in index file
+2019-10-01,04:43:06,theme_thejessicafelts-2020,commit,Initial commit for gulpfile
+2019-10-01,04:42:28,theme_thejessicafelts-2020,commit,"Split scrips/styles, updated formatting"
+2019-10-01,04:42:03,theme_thejessicafelts-2020,commit,Updated location of main.js
+2019-10-01,04:41:38,theme_thejessicafelts-2020,commit,Initial commit for .gitignore
+2019-10-01,04:41:29,theme_thejessicafelts-2020,commit,"Initial commit for babel, package, package-lock"
+2019-10-01,04:40:49,theme_thejessicafelts-2020,commit,"Update main.css -> main.scss, created top-bar.scss"
+2019-09-28,03:49:33,theme_thejessicafelts-2020,commit,Working with The Loop
+2019-09-28,03:29:17,theme_thejessicafelts-2020,commit,Initial Commit of main.js file
+2019-09-28,03:29:05,theme_thejessicafelts-2020,commit,Initial Commit of main.css file
+2019-09-28,03:28:38,theme_thejessicafelts-2020,commit,Adding Nav and Top Bar to Header
+2019-09-28,03:28:20,theme_thejessicafelts-2020,commit,Adding Fuctions to functions.php file
+2019-09-28,03:28:04,theme_thejessicafelts-2020,commit,Updating Footer with Dynamic Widgetized Areas
+2019-09-26,01:57:32,theme_thejessicafelts-2020,commit,Including header and footer into file
+2019-09-26,01:57:20,theme_thejessicafelts-2020,commit,Adding header html code
+2019-09-26,01:57:05,theme_thejessicafelts-2020,commit,"Adding footer, wp_footer, and closing body/html"
+2019-09-26,01:51:51,theme_thejessicafelts-2020,commit,Initial Commit of functions.php
+2019-09-26,01:50:00,theme_thejessicafelts-2020,commit,Initial Commit of footer.php
+2019-09-26,01:49:53,theme_thejessicafelts-2020,commit,Initial Commit of header.php
+2019-09-26,01:48:18,theme_thejessicafelts-2020,commit,Initial Commit for Screenshot.jpeg
+2019-09-26,01:44:01,theme_thejessicafelts-2020,commit,Initial Commit of index.php
+2019-09-26,01:43:30,theme_thejessicafelts-2020,commit,Setting Up Theme Information in style.css
+2019-09-10,18:24:13,udemy_modern-javascript-from-the-beginning,commit,JS Loops and Iterations Examples
+2019-09-02,02:32:08,udemy_modern-javascript-from-the-beginning,commit,JS Function Declarations and Expressions Examples
+2019-09-01,19:35:13,udemy_modern-javascript-from-the-beginning,commit,JS Swtich Examples
+2019-09-01,19:27:30,udemy_modern-javascript-from-the-beginning,commit,Merge branch 'master' of https://github.com/thejessicafelts/udemy_modern-javascript-from-the-beginning
+2019-09-01,19:27:04,udemy_modern-javascript-from-the-beginning,commit,JS If Statements and Comparison Operator Examples
+2019-09-01,19:25:46,udemy_modern-javascript-from-the-beginning,commit,JS If Statements and Comparison Operator Exampes
+2019-09-01,18:55:26,udemy_modern-javascript-from-the-beginning,commit,JS Date and Time Examples
+2019-09-01,18:42:16,udemy_modern-javascript-from-the-beginning,commit,JS Object Literal Examples
+2019-08-27,21:24:48,udemy_modern-javascript-from-the-beginning,commit,JS Arrays and Array Methods Examples
+2019-08-27,21:04:43,udemy_modern-javascript-from-the-beginning,commit,JS Template Literals Examples
+2019-08-27,20:51:28,udemy_modern-javascript-from-the-beginning,commit,JS String Methods and Concatenation Examples
+2019-08-27,20:33:57,udemy_modern-javascript-from-the-beginning,commit,JS Math Object Examples
+2019-08-27,20:23:11,udemy_modern-javascript-from-the-beginning,commit,JS Type Coercion Examples
+2019-08-27,17:10:49,udemy_modern-javascript-from-the-beginning,commit,JS Type Conversion Examples
+2019-08-27,15:17:13,udemy_modern-javascript-from-the-beginning,commit,JS Reference Types Examples
+2019-08-27,15:17:06,udemy_modern-javascript-from-the-beginning,commit,JS Primitive Types Examples
+2019-08-27,15:04:18,udemy_modern-javascript-from-the-beginning,commit,JS Variables Examples
+2019-08-27,14:47:31,udemy_modern-javascript-from-the-beginning,commit,JS Console Logging Examples
+2019-08-27,14:46:58,udemy_modern-javascript-from-the-beginning,commit,JS Comments Examples
+2019-08-27,14:10:35,udemy_modern-javascript-from-the-beginning,commit,Initial Commit of index.html
+2019-08-27,14:10:02,udemy_modern-javascript-from-the-beginning,commit,Initial Commit of app.js
+2024-01-13,15:22:48,udemy_modern-javascript-from-the-beginning,fork,Fork
+2024-06-12,15:51:05,url-tester,commit,Delete venv directory
+2024-06-12,15:49:30,url-tester,commit,Updating .gitignore file
+2024-06-12,15:48:03,url-tester,commit,Deleting incorrect Environment folder
+2024-06-12,15:44:46,url-tester,commit,Inital Commit for URL Tester (Test)
+2015-08-03,15:25:09,visithere.org,commit,Updated README.md
+2015-08-03,15:25:03,visithere.org,commit,Updated index.html
+2015-08-03,15:24:57,visithere.org,commit,Updated style.cs
+2015-08-03,15:24:49,visithere.org,commit,Deleted .gitattributes
+2015-08-03,14:25:58,visithere.org,commit,:boom::camel: Added .gitattributes
+2022-02-09,07:41:37,vsto-2022,commit,Updating version numbers for this project.
+2022-02-09,07:41:13,vsto-2022,commit,Reverting changes
+2022-01-03,04:54:22,vsto-2022,commit,Editing loop in index page.
+2022-01-02,04:33:52,vsto-2022,commit,Adding posts loop to index page.
+2021-12-30,21:59:11,vsto-2022,commit,Updating Site Title
+2021-12-30,20:30:28,vsto-2022,commit,Updates to Gulp File
+2021-12-30,20:30:08,vsto-2022,commit,Initial Function PHP File
+2021-12-30,20:29:19,vsto-2022,commit,Updates to JSON file
+2021-12-30,20:29:02,vsto-2022,commit,Updating Site Header
+2021-12-30,20:28:31,vsto-2022,commit,Updating Page Footer
+2021-12-18,23:45:20,vsto-2022,commit,Updates to JSON file
+2021-12-18,23:44:01,vsto-2022,commit,Introducing default task
+2021-12-18,17:04:45,vsto-2022,commit,Updating Gulp plugins
+2021-12-18,17:04:30,vsto-2022,commit,Updates to JSON files
+2021-12-18,06:04:45,vsto-2022,commit,README updates
+2021-12-18,05:57:35,vsto-2022,commit,Merge branch 'main' of https://www.github.com/thejessicafelts/vsto-2022
+2021-12-18,05:55:54,vsto-2022,commit,README updates
+2021-12-18,01:16:33,vsto-2022,commit,Reverting change to README
+2021-12-18,01:06:52,vsto-2022,commit,Update README.md
+2021-12-18,01:04:17,vsto-2022,commit,README updates
+2021-12-18,01:04:11,vsto-2022,commit,Updating JSON file locations
+2021-12-18,00:56:36,vsto-2022,commit,README updates
+2021-12-16,23:25:15,vsto-2022,commit,README updates
+2021-12-16,23:22:09,vsto-2022,commit,README updates
+2021-12-16,23:20:58,vsto-2022,commit,README updates
+2021-12-16,23:20:02,vsto-2022,commit,README updates
+2021-12-16,19:35:58,vsto-2022,commit,Updating README location
+2021-12-16,19:35:01,vsto-2022,commit,Setting up gulpfile.js
+2021-12-16,19:34:35,vsto-2022,commit,Updates to gitignore
+2021-12-16,19:33:48,vsto-2022,commit,Compiling dev folder
+2021-12-16,06:45:43,vsto-2022,commit,Format Updates
+2021-12-16,06:44:44,vsto-2022,commit,Format Updates
+2021-12-16,06:40:20,vsto-2022,commit,Correcting Email Links
+2021-12-16,06:37:15,vsto-2022,commit,Initial README.md setup
+2021-12-16,06:36:59,vsto-2022,commit,Setup for styles.css file.
+2021-12-16,06:12:19,vsto-2022,commit,Theme Screenshot
+2021-12-14,18:52:23,vsto-2022,commit,Initial commit
+2018-06-13,22:36:14,wp-portfolio,commit,"added the 'projects' custom post type, including archive and single page templates."
+2018-06-13,22:14:52,wp-portfolio,commit,"added a custom post types file for ACF custom post types, and updated functions.php to include this new file."
+2018-06-13,22:12:25,wp-portfolio,commit,added theme image for admin dashboard.
+2018-06-13,21:34:06,wp-portfolio,commit,added vendor files for this theme.
+2018-06-13,21:32:37,wp-portfolio,commit,added initial functions.php file with basic functionality enabled.
+2018-06-13,21:32:20,wp-portfolio,commit,added a 404 page.
+2018-06-13,21:30:18,wp-portfolio,commit,"added index file, and header and footer partials."
+2018-06-13,21:26:52,wp-portfolio,commit,added style.css file with theme information.
+2018-06-13,21:21:19,wp-portfolio,commit,Initial commit
+2017-06-04,03:44:44,wp-theme-lotus,commit,Updated README.md  Added a Coming soon. line.
+2017-02-19,04:38:58,wp-theme-lotus,commit,Update to style.css   URI update
+2017-02-19,04:38:15,wp-theme-lotus,commit,Update to style.css  URI update
+2017-02-18,03:21:46,wp-theme-lotus,commit,Update to lotus.css  Changed styling of <h3> post titles.
+2017-02-18,03:21:27,wp-theme-lotus,commit,Update to content.php  Added class “post-title” to <h3>.
+2017-02-18,03:21:20,wp-theme-lotus,commit,Update to content-video.php  Added class “post-title” to <h3>.
+2017-02-18,03:21:11,wp-theme-lotus,commit,Update to content-status.php  Added class “post-title” to <h3>.
+2017-02-18,03:21:03,wp-theme-lotus,commit,Update to content-quote.php  Added class “quote” to <h3>.
+2017-02-18,03:20:45,wp-theme-lotus,commit,Update to content-link.php  Added class “post-title” to <h3>.
+2017-02-18,03:20:36,wp-theme-lotus,commit,Update to content-image.php  Added class “post-title” to <h3>.
+2017-02-18,03:20:25,wp-theme-lotus,commit,Update to content-gallery.php  Added class “post-title” to <h3>.
+2017-02-18,03:20:16,wp-theme-lotus,commit,Update to content-chat.php  Added class “post-title” to <h3>.
+2017-02-18,03:20:08,wp-theme-lotus,commit,Update to content-audio.php  Added class “post-title” to <h3>.
+2017-02-18,03:19:59,wp-theme-lotus,commit,Update to content-aside.php  Added class “post-title” to <h3>.
+2017-02-18,02:46:09,wp-theme-lotus,commit,Initial Commit for fonts.css  Initial Commit for fonts file. Brining in CSS for font families from Google Fonts. Added Oleo Script font face.
+2017-02-18,02:45:29,wp-theme-lotus,commit,Update to functions.php  Inclusion of fonts.css for custom font selection.
+2017-02-18,02:45:03,wp-theme-lotus,commit,"Update to lotus.css  Removal and Replacement of margin, to clear navigation bar."
+2017-02-18,02:28:18,wp-theme-lotus,commit,"Update to lotus.css  Addition of styles to create a fixed navigation bar, and additional styles for layout."
+2017-02-18,02:27:38,wp-theme-lotus,commit,Update to header.php  Removal of duplicate head content.
+2017-02-18,02:26:26,wp-theme-lotus,commit,Update to index.php  Addition of “blog-container” class to div.
+2017-02-17,20:53:57,wp-theme-lotus,commit,Create README.md  README.md File.
+2017-02-17,17:33:14,wp-theme-lotus,commit,Update to style.css  Changes in Theme URI and Description to disassociate this theme from the DSSB brand.
+2017-02-16,16:51:32,wp-theme-lotus,commit,Create LICENSE
+2017-02-14,23:57:57,wp-theme-lotus,commit,Update to index.php  Included arguments for front page / other pages. Broke content into containers. Included righthand sidebar. Included sidebar widget areas. Included header image for home page.
+2017-02-14,23:56:02,wp-theme-lotus,commit,Update to page-notitle.php  Removed unnecessary spacing.
+2017-02-14,23:55:34,wp-theme-lotus,commit,"Update to header.php  Included additional classes, Changed link for site title, removed header image code."
+2017-02-14,23:54:50,wp-theme-lotus,commit,Update to functions.php  Update comment formatting. Included arguments for custom header. Included arguments for widget areas.
+2017-02-14,23:53:14,wp-theme-lotus,commit,Update to footer.php  Updated footer. Broke footer into containers. Included 3-wide Widget areas. Included footer notice.
+2017-02-14,23:52:09,wp-theme-lotus,commit,"Update to lotus.css  Updated styles for header, navigation and footer."
+2017-02-14,23:51:40,wp-theme-lotus,commit,"Update to content.php  Update to formatting of code. Included proper code for comments, title."
+2017-02-14,23:51:19,wp-theme-lotus,commit,Update to content-video.php  Included generic post content. Will be updated.
+2017-02-14,23:51:03,wp-theme-lotus,commit,Update to content-status.php  Included generic content. Will be updated.
+2017-02-14,23:50:24,wp-theme-lotus,commit,"Update to content-link.php  Update to formatting of code. Included proper code for comments, title."
+2017-02-14,23:49:39,wp-theme-lotus,commit,Update to content-image.php.  Update to format of code.
+2017-02-14,23:49:10,wp-theme-lotus,commit,Update to content-gallery.php  Included generic content. Will be updated.
+2017-02-14,23:48:54,wp-theme-lotus,commit,Update to content-chat.php  Included generic content. Will be updated.
+2017-02-14,23:48:05,wp-theme-lotus,commit,Update to content-audio.php  Included generic layout for content. Will be updated.
+2017-02-14,23:47:35,wp-theme-lotus,commit,Update to content-aside.php  Update to formatting of code. Included proper code for comments.
+2017-02-13,19:05:19,wp-theme-lotus,commit,Update to footer.php
+2017-02-13,19:02:20,wp-theme-lotus,commit,Update to header.php  Including bootstrap styles for primary navigation.
+2017-02-13,19:01:39,wp-theme-lotus,commit,Update to footer.php  Updating Closing container div from header.php
+2017-02-13,19:01:00,wp-theme-lotus,commit,Update to lotus.css  Overriding bootstrap styles for primary navigation.
+2017-02-13,18:06:03,wp-theme-lotus,commit,"Update to functions.php  Including comments on file, including new styles for boostrap.min.css, and including new scripts for boostrap.min.js and jQuery,"
+2017-02-13,18:05:11,wp-theme-lotus,commit,Initial Commit for bootstrap.min.js  Including bootstrap.min.js
+2017-02-13,18:04:47,wp-theme-lotus,commit,Initial Commit of Fonts  Including Bootstrap related font files.
+2017-02-13,18:04:27,wp-theme-lotus,commit,Update to lotus.css  Deleting previous styles after including bootstrap.min.css
+2017-02-13,18:04:08,wp-theme-lotus,commit,Initial Commit of bootstrap.min.css  Including bootstrap.min.css
+2017-02-13,18:03:49,wp-theme-lotus,commit,Update to content-link.php  Update to Link post format.
+2017-02-13,02:15:19,wp-theme-lotus,commit,Initial Commit page-notitle.php  Created Custom Post Template: Page (Title Hidden).
+2017-02-13,02:14:53,wp-theme-lotus,commit,Initial Commit page-about.php  Created Post Template: Biography
+2017-02-13,02:14:27,wp-theme-lotus,commit,Update to index.php  Changed formatting
+2017-02-13,02:13:57,wp-theme-lotus,commit,Update to Header.php  Included custom classes and included a custom navigation menu.
+2017-02-13,02:13:35,wp-theme-lotus,commit,"Update to Functions.php  Included custom navigation menus (primary, secondary, footer), added theme support for custom background image, custom header image and post thumbnails, added theme support for post formats (aside, gallery, link, image, quote, status, video, audio, chat)."
+2017-02-13,02:12:39,wp-theme-lotus,commit,Update to Footer.php  Included new Footer Navigation menu
+2017-02-13,02:12:24,wp-theme-lotus,commit,Updates to Lotus.css
+2017-02-13,02:11:59,wp-theme-lotus,commit,Initial Commit content-video.php  Content Layout for a Video Post
+2017-02-13,02:11:46,wp-theme-lotus,commit,Initial Commit content-status.php  Content Layout for a Status Post
+2017-02-13,02:11:31,wp-theme-lotus,commit,Initial Commit content-quote.php  Content Layout for a Quote Post
+2017-02-13,02:11:15,wp-theme-lotus,commit,Initial Commit content-link.php  Content Layout for a Link Post
+2017-02-13,02:11:02,wp-theme-lotus,commit,Initial Commit content-image.php  Content Layout for an Image Post
+2017-02-13,02:10:47,wp-theme-lotus,commit,Initial Commit content-gallery.php  Content Layout for a Gallery Post
+2017-02-13,02:10:33,wp-theme-lotus,commit,Initial Commit content-chat.php  Content Layout for a Chat Post
+2017-02-13,02:10:17,wp-theme-lotus,commit,Initial Commit content-audio.php  Content Layout for an Audio Post
+2017-02-13,02:10:02,wp-theme-lotus,commit,Initial Commit content-aside.php  Content Layout for an Aside Post
+2017-02-13,02:09:41,wp-theme-lotus,commit,Initial Commit Content.php  Content for a Standard Post Layout
+2017-02-12,18:00:09,wp-theme-lotus,commit,Initial Commit of Lotus Theme  Lotus is a WP Theme
