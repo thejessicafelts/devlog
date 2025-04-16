@@ -1,8 +1,8 @@
 document.addEventListener("DOMContentLoaded", () => {
   const container = document.getElementById("devlogContainer");
-  const csvFile = 'devlog-csv.csv'; // Ensure the CSV is in the same directory
+  const baseCsvFileUrl = 'devlog-csv.csv'; // Base URL for the CSV file.
 
-  // Mapping activity types to emoji icons
+  // Mapping activity types to emoji icons.
   const activityIcons = {
     commit: "📌",
     issue: "⚠️",
@@ -11,9 +11,10 @@ document.addEventListener("DOMContentLoaded", () => {
     release: "🏷️"
   };
 
-  // Helper: Fetch and parse CSV data
+  // Helper: Fetch and parse CSV data using a cache-busting query parameter.
   function fetchCSV(url) {
-    return fetch(url)
+    const fullUrl = url + '?v=' + new Date().getTime(); // Append timestamp to bypass cache.
+    return fetch(fullUrl)
       .then(response => {
         if (!response.ok) {
           throw new Error(`Network response was not ok. Status: ${response.status}`);
@@ -21,22 +22,20 @@ document.addEventListener("DOMContentLoaded", () => {
         return response.text();
       })
       .then(text => {
-        console.log("CSV content loaded:", text); // Debug: log raw CSV content
+        console.log("CSV content loaded:", text); // Debug: log raw CSV content.
         return parseCSV(text);
       });
   }
 
-  // Updated CSV parser to correctly split on commas not within quotes.
+  // CSV parser: Splits lines and fields on commas not enclosed in quotes.
   function parseCSV(text) {
     const lines = text.trim().split('\n');
     const headers = lines[0].split(',');
     const data = lines.slice(1).map(line => {
-      // This regex splits on commas that are not enclosed in quotes.
       const values = line.split(/,(?=(?:(?:[^"]*"){2})*[^"]*$)/);
       const entry = {};
       headers.forEach((header, i) => {
         let value = values[i] ? values[i].trim() : "";
-        // Remove surrounding quotes if present.
         if (value.startsWith('"') && value.endsWith('"')) {
           value = value.substring(1, value.length - 1);
         }
@@ -47,49 +46,50 @@ document.addEventListener("DOMContentLoaded", () => {
     return data;
   }
 
-  // Group log entries by date (YYYY-MM-DD)
+  // Group log entries by date (expects 'date' field in YYYY-MM-DD format).
   function groupLogsByDate(logs) {
     const groups = {};
     logs.forEach(log => {
-      const date = log.date; // Expecting format: YYYY-MM-DD
+      const date = log.date;
       if (!groups[date]) groups[date] = [];
       groups[date].push(log);
     });
     return groups;
   }
 
-  // Helper: Parse date string and time string to a local Date object.
+  // Helper: Parse a date and time string to a local Date object.
   function parseLocalDateTime(dateStr, timeStr) {
     const [year, month, day] = dateStr.split('-').map(Number);
     const [hour, minute, second] = timeStr.split(':').map(Number);
     return new Date(year, month - 1, day, hour, minute, second);
   }
 
-  // Format a date string (YYYY-MM-DD) as a human-friendly date using local date values.
+  // Format a date string (YYYY-MM-DD) into a human-friendly date.
   function formatDate(dateStr) {
     const [year, month, day] = dateStr.split('-').map(Number);
-    // Construct a local date – the Date constructor here interprets the values in local time.
     const localDate = new Date(year, month - 1, day);
     const options = { year: 'numeric', month: 'long', day: 'numeric' };
     return localDate.toLocaleDateString(undefined, options);
   }
 
-  // Render the devlog UI from the grouped data
+  // Render the devlog UI from grouped CSV data.
   function renderDevlogs(groupedLogs) {
-    // Sort dates in descending order (most recent first)
-    const dates = Object.keys(groupedLogs).sort((a, b) => new Date(b) - new Date(a));
+    // Clear the container before rendering.
+    container.innerHTML = "";
 
+    // Sort dates descending (most recent first).
+    const dates = Object.keys(groupedLogs).sort((a, b) => new Date(b) - new Date(a));
     dates.forEach(date => {
       const card = document.createElement("div");
       card.className = "devlog-entry";
 
-      // Create date header using a formatted version of the date string
+      // Date header.
       const header = document.createElement("div");
       header.className = "date-header";
       header.textContent = formatDate(date);
       card.appendChild(header);
 
-      // Sort entries for the day in ascending order by local time
+      // Sort the entries of the day by local time ascending.
       const entries = groupedLogs[date].sort((a, b) => {
         return parseLocalDateTime(a.date, a.time) - parseLocalDateTime(b.date, b.time);
       });
@@ -98,7 +98,7 @@ document.addEventListener("DOMContentLoaded", () => {
       entries.forEach(log => {
         const listItem = document.createElement("li");
 
-        // Build the entry line: [time] - [icon] activity on repository: description
+        // Build log entry content: [time] - [icon] activity on repository: description.
         const timeSpan = document.createElement("span");
         timeSpan.className = "time";
         timeSpan.textContent = log.time;
@@ -119,7 +119,7 @@ document.addEventListener("DOMContentLoaded", () => {
         descriptionSpan.className = "description";
         descriptionSpan.textContent = log.description;
 
-        // Compose the list item content
+        // Compose the entry.
         listItem.appendChild(timeSpan);
         listItem.insertAdjacentText("beforeend", " - ");
         listItem.appendChild(iconSpan);
@@ -137,15 +137,22 @@ document.addEventListener("DOMContentLoaded", () => {
     });
   }
 
-  // Fetch the CSV file, parse the contents, group the data and render the UI
-  fetchCSV(csvFile)
-    .then(data => {
-      // Data is an array of log objects from the CSV file
-      const groupedLogs = groupLogsByDate(data);
-      renderDevlogs(groupedLogs);
-    })
-    .catch(error => {
-      console.error("Error loading CSV data:", error);
-      container.textContent = "Error loading devlog data.";
-    });
+  // Function to load CSV data and render the UI.
+  function loadAndRenderCSV() {
+    fetchCSV(baseCsvFileUrl)
+      .then(data => {
+        const groupedLogs = groupLogsByDate(data);
+        renderDevlogs(groupedLogs);
+      })
+      .catch(error => {
+        console.error("Error loading CSV data:", error);
+        container.textContent = "Error loading devlog data.";
+      });
+  }
+
+  // Initial load.
+  loadAndRenderCSV();
+
+  // Set up auto-refresh to load new CSV data every 60 seconds.
+  setInterval(loadAndRenderCSV, 60000);
 });
