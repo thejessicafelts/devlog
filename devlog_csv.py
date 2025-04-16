@@ -13,7 +13,7 @@ import csv
 # =======================
 # Settings (user adjustable)
 # =======================
-USERNAME = 'thejessicafelts'
+USERNAME = 'YOUR_USERNAME'
 TIMEZONE = 'America/Detroit'   # Provide your preferred timezone as a string.
 EXCLUDED_REPO = 'daily-devlog'              # Set to the name of a repo to exclude; leave blank to include all.
 OUTPUT_FILE = 'devlog-csv.csv'  # CSV output file name.
