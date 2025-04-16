@@ -1,0 +1,115 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* General styles */
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #f1eeee;
+  color: #333;
+}
+
+/* Header styling */
+.header {
+  border-top: 5px solid #8c223f;
+  /* border-bottom: 1px solid #ddd; */
+  background-color: #f8f8f8;
+  color: #000;
+  padding: 20px;
+  text-align: center;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+/* Container for the devlog cards */
+.devlog-container {
+  max-width: 1000px;
+  margin: 20px auto;
+  padding: 0 15px;
+}
+
+/* Individual devlog card (grouped by date) */
+.devlog-entry {
+  background-color: #f8f8f8;
+  border-left: 5px solid #8c223f;
+  margin-bottom: 30px;
+  margin-top: 30px;
+  padding: 30px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+/* Date header for each card */
+.devlog-entry .date-header {
+  font-size: 1.4rem;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+/* List of activity entries */
+.devlog-entry ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.devlog-entry li {
+  padding: 15px 5px;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.devlog-entry li:last-child {
+  border-bottom: none;
+  margin-bottom: 0;
+}
+
+/* Inline styling for log details */
+.devlog-entry .time {
+  font-weight: bold;
+  margin-right: 6px;
+}
+
+.devlog-entry .icon {
+  margin-right: 4px;
+}
+
+.devlog-entry .activity,
+.devlog-entry .repo {
+  font-weight: bold;
+}
+
+.devlog-entry .description {
+  margin-left: 4px;
+  color: #555;
+}
+
+.date-header {
+  padding: 10px 0 10px 5px;
+  font-weight: 900;
+}
+
+h1 {
+  padding-top: 10px;
+  color: #333;
+  font-size: 30px;
+  padding-bottom: 10px;
+}
+
+h2 {
+  color: 333;
+  font-size: 16px;
+  font-weight: 300;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  padding-bottom: 15px;
+}
+
+footer {
+  background-color: #f8f8f8;
+  text-align: center;
+  padding: 1rem 0 0.75rem;
+  margin-top: 15px;
+  box-shadow: 0 -2px 4px rgba(0, 0, 0, 0.1);
+  border-bottom: 5px solid #8c223f;
+}
