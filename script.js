@@ -1,6 +1,7 @@
 document.addEventListener("DOMContentLoaded", () => {
   const container = document.getElementById("devlogContainer");
   const baseCsvFileUrl = 'devlog-csv.csv'; // Base URL for the CSV file.
+  const BATCH_SIZE = 5; // Number of date groups to render per batch.
 
   // Mapping activity types to emoji icons.
   const activityIcons = {
@@ -10,6 +11,17 @@ document.addEventListener("DOMContentLoaded", () => {
     fork: "🍴",
     release: "🏷️"
   };
+
+  // Variables for lazy loading state.
+  let sortedDates = []; // Array of date keys in sorted order.
+  let groupedLogs = {}; // Grouped log entries.
+  let currentIndex = 0; // Index of the next date group to render.
+  let observer; // IntersectionObserver instance.
+
+  // Create a sentinel element at the end of the container.
+  const sentinel = document.createElement("div");
+  sentinel.id = "sentinel";
+  container.appendChild(sentinel);
 
   // Helper: Fetch and parse CSV data using a cache-busting query parameter.
   function fetchCSV(url) {
@@ -22,7 +34,7 @@ document.addEventListener("DOMContentLoaded", () => {
         return response.text();
       })
       .then(text => {
-        console.log("CSV content loaded:", text); // Debug: log raw CSV content.
+        console.log("CSV content loaded:", text);
         return parseCSV(text);
       });
   }
@@ -72,77 +84,96 @@ document.addEventListener("DOMContentLoaded", () => {
     return localDate.toLocaleDateString(undefined, options);
   }
 
-  // Render the devlog UI from grouped CSV data.
-  function renderDevlogs(groupedLogs) {
-    // Clear the container before rendering.
-    container.innerHTML = "";
+  // Render a single date group (a "card").
+  function renderGroup(date) {
+    const card = document.createElement("div");
+    card.className = "devlog-entry";
 
-    // Sort dates descending (most recent first).
-    const dates = Object.keys(groupedLogs).sort((a, b) => new Date(b) - new Date(a));
-    dates.forEach(date => {
-      const card = document.createElement("div");
-      card.className = "devlog-entry";
+    // Date header.
+    const header = document.createElement("div");
+    header.className = "date-header";
+    header.textContent = formatDate(date);
+    card.appendChild(header);
 
-      // Date header.
-      const header = document.createElement("div");
-      header.className = "date-header";
-      header.textContent = formatDate(date);
-      card.appendChild(header);
-
-      // Sort the entries of the day by local time ascending.
-      const entries = groupedLogs[date].sort((a, b) => {
-        return parseLocalDateTime(a.date, a.time) - parseLocalDateTime(b.date, b.time);
-      });
-
-      const list = document.createElement("ul");
-      entries.forEach(log => {
-        const listItem = document.createElement("li");
-
-        // Build log entry content: [time] - [icon] activity on repository: description.
-        const timeSpan = document.createElement("span");
-        timeSpan.className = "time";
-        timeSpan.textContent = log.time;
-
-        const iconSpan = document.createElement("span");
-        iconSpan.className = "icon";
-        iconSpan.textContent = activityIcons[log.activity] || "";
-
-        const activitySpan = document.createElement("span");
-        activitySpan.className = "activity";
-        activitySpan.textContent = log.activity;
-
-        const repoSpan = document.createElement("span");
-        repoSpan.className = "repo";
-        repoSpan.textContent = log.repository;
-
-        const descriptionSpan = document.createElement("span");
-        descriptionSpan.className = "description";
-        descriptionSpan.textContent = log.description;
-
-        // Compose the entry.
-        listItem.appendChild(timeSpan);
-        listItem.insertAdjacentText("beforeend", " - ");
-        listItem.appendChild(iconSpan);
-        listItem.insertAdjacentText("beforeend", " ");
-        listItem.appendChild(activitySpan);
-        listItem.insertAdjacentText("beforeend", " on ");
-        listItem.appendChild(repoSpan);
-        listItem.insertAdjacentText("beforeend", ": ");
-        listItem.appendChild(descriptionSpan);
-        list.appendChild(listItem);
-      });
-
-      card.appendChild(list);
-      container.appendChild(card);
+    // Sort the entries for the date group by local time ascending.
+    const entries = groupedLogs[date].sort((a, b) => {
+      return parseLocalDateTime(a.date, a.time) - parseLocalDateTime(b.date, b.time);
     });
+
+    const list = document.createElement("ul");
+    entries.forEach(log => {
+      const listItem = document.createElement("li");
+
+      // Build log entry content: [time] - [icon] activity on repository: description.
+      const timeSpan = document.createElement("span");
+      timeSpan.className = "time";
+      timeSpan.textContent = log.time;
+
+      const iconSpan = document.createElement("span");
+      iconSpan.className = "icon";
+      iconSpan.textContent = activityIcons[log.activity] || "";
+
+      const activitySpan = document.createElement("span");
+      activitySpan.className = "activity";
+      activitySpan.textContent = log.activity;
+
+      const repoSpan = document.createElement("span");
+      repoSpan.className = "repo";
+      repoSpan.textContent = log.repository;
+
+      const descriptionSpan = document.createElement("span");
+      descriptionSpan.className = "description";
+      descriptionSpan.textContent = log.description;
+
+      listItem.appendChild(timeSpan);
+      listItem.insertAdjacentText("beforeend", " - ");
+      listItem.appendChild(iconSpan);
+      listItem.insertAdjacentText("beforeend", " ");
+      listItem.appendChild(activitySpan);
+      listItem.insertAdjacentText("beforeend", " on ");
+      listItem.appendChild(repoSpan);
+      listItem.insertAdjacentText("beforeend", ": ");
+      listItem.appendChild(descriptionSpan);
+      list.appendChild(listItem);
+    });
+    card.appendChild(list);
+    container.insertBefore(card, sentinel);
   }
 
-  // Function to load CSV data and render the UI.
+  // Render the next batch of date groups.
+  function renderNextGroups() {
+    const nextBatch = sortedDates.slice(currentIndex, currentIndex + BATCH_SIZE);
+    nextBatch.forEach(date => renderGroup(date));
+    currentIndex += BATCH_SIZE;
+    // If all groups have been rendered, disconnect the observer.
+    if (currentIndex >= sortedDates.length && observer) {
+      observer.disconnect();
+    }
+  }
+
+  // Set up IntersectionObserver to lazy-load more groups when the sentinel is in view.
+  function setupObserver() {
+    observer = new IntersectionObserver((entries) => {
+      if (entries[0].isIntersecting) {
+        renderNextGroups();
+      }
+    });
+    observer.observe(sentinel);
+  }
+
+  // Function to load CSV data, group logs, and initialize lazy rendering.
   function loadAndRenderCSV() {
     fetchCSV(baseCsvFileUrl)
       .then(data => {
-        const groupedLogs = groupLogsByDate(data);
-        renderDevlogs(groupedLogs);
+        groupedLogs = groupLogsByDate(data);
+        // Sort dates in descending order (most recent first).
+        sortedDates = Object.keys(groupedLogs).sort((a, b) => new Date(b) - new Date(a));
+        // Reset lazy load state.
+        currentIndex = 0;
+        container.innerHTML = "";
+        container.appendChild(sentinel); // Re-attach sentinel.
+        renderNextGroups();
+        setupObserver();
       })
       .catch(error => {
         console.error("Error loading CSV data:", error);
